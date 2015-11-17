@@ -1,12 +1,18 @@
-# TOOOT
-## Acerca del nombre
-TOT (Tip of the Tongue): es el nombre que recibe el fenómeno de tener algo en "la punta de la lengua". Es una sensación que se experimenta cuando intentamos recordar un nombre o palabra que conocemos sobradamente pero no podemos hacerlo aflorar a nuestra memoria. La palabra en cuestión ha sido bien memorizada pero resulta temporalmente inaccesible por lo cual la persona se esfuerza en recordarla sin lograr su cometido aunque en algunas ocasiones incluso se llega a producir algún sonido fonológico cercano o se logra recordar la letra con la cual inicia la palabra.
-En griego [Tot](https://es.wikipedia.org/wiki/Tot) (Θωθ1 ), es el dios de la sabiduría, la escritura, la música, los conjuros, hechizos mágicos... También se puede ver escrito como Thot, Toth o Thoth.
-TOT es la abreviatura de Teo y Otto, mis hijos, mis maestros.
+# T:full_moon:T
+TOT (Tip Of the Tongue): es el nombre que recibe el fenómeno de tener algo en "la punta de la lengua". Es esa sensación que experimentamos cuando intentamos recordar un nombre o una palabra que conocemos sobradamente pero no podemos hacer aflorar en un momento dado.
 
-## Eneagrama, eneatipo 5 ala 4.
-EL OBSERVADOR
-Se centra hacia el 8 y se descentra hacia el 7.
+En griego [Tot](https://es.wikipedia.org/wiki/Tot) (Θωθ1 ), es el dios de la sabiduría, la escritura, la música, los conjuros, hechizos mágicos... También se puede ver escrito como Thot, Toth o Thoth.
+
+Pero el nombre de TOT es la abreviatura de Teo y Otto, mis hijos, mis maestros.
+
+## ¿De qué va este proyecto?
+El viaje del héroe.
+
+### Fase 1
+El Autodescubrimiento. Propósito de vida. Tu función primordial es revelada. Comprender lo que te ha sido dado y traerlo a este mundo. Uso del Eneagrama como herramienta.
+
+#### Eneatipo 5 (ala 4). El Observador
+- Se centra hacia el 8 y se descentra hacia el 7.
 Subtipo  ala  4  (Iconoclasta)  sano: Sin  orientación  científica,    suelen  ser    solitarios creativos    que      combinan    la    pasión    con    la    objetividad.    Son    caprichosos      e   ingeniosos:   sus trabajos de bricolaje pueden llevar a sorprendentes innovaciones; con frecuencia  atraídos  por  las  artes,  usan  más  la imaginación  que  las  partes  analítica  y sistemática de su mente.
 
 - Mantenerse en contacto con la propia corporeidad y encauzar las energías a la acción.
@@ -34,7 +40,12 @@ Subtipo  ala  4  (Iconoclasta)  sano: Sin  orientación  científica,    suelen 
 - Los  Cinco liberados  recuerdan el espacio y  la  claridadde  la  mente  divina,  lo que  los budistas llaman Sunyata o «el vacío brillante», la silenciosa e ininterrumpidavastedad de  la  que  surge  todo,  incluidos  el  conocimiento  y  la  creatividad.  Anhelan  volver  a experimentar  el  vacío  porque  en  otro  tiempo  fue  su  hogar,  como  fue  (según la perspectiva budista) elorigen de  todos y detodo lo que existe  en el  mundo. Pero es preciso entender bien ese anhelo por volver al vacío, porque no es el vacío del olvido, sino el «vacío» de un vaso de agua pura o el de un cielo azul perfecto: todo lo demás es posible gracias a su vacío.
 - A  observarte  y  observar  a  los  demos  sin  juicios  ni  expectativas.  Recuerda  que  tu verdadera  naturaleza  es  participar  en  la  realidad,  contemplando  las  riquezas  infinitas  del mundo.
 
-## Matemáticas vorticiales
+### Matemáticas vorticiales
 - Teoría del todo de Valdeande Mágico
 - Marko Rodin
-## Geocrom
+
+### Geometría
+
+#### Enlaces
+- [#t0tfotos](http://www.tumblr.com/t0tfotos) Diario fotográfico
+- [#TOT](https://www.facebook.com/T0T-156415467869146/) Facebook page
