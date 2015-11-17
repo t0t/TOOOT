@@ -2,7 +2,7 @@
 ## Acerca del nombre
 TOT (Tip of the Tongue): es el nombre que recibe el fenómeno de tener algo en "la punta de la lengua". Es una sensación que se experimenta cuando intentamos recordar un nombre o palabra que conocemos sobradamente pero no podemos hacerlo aflorar a nuestra memoria. La palabra en cuestión ha sido bien memorizada pero resulta temporalmente inaccesible por lo cual la persona se esfuerza en recordarla sin lograr su cometido aunque en algunas ocasiones incluso se llega a producir algún sonido fonológico cercano o se logra recordar la letra con la cual inicia la palabra.
 En griego [Tot](https://es.wikipedia.org/wiki/Tot) (Θωθ1 ), es el dios de la sabiduría, la escritura, la música, los conjuros, hechizos mágicos... También se puede ver escrito como Thot, Toth o Thoth.
-Paralelamente también es la abreviatura de Teo y Otto, mis hijos.
+TOT es la abreviatura de Teo y Otto, mis hijos, mis maestros.
 
 ## Eneagrama, eneatipo 5 ala 4.
 EL OBSERVADOR
