@@ -1,11 +1,17 @@
 # T:full_moon:T
+
+- 0 Introducción
+- 1 Conócete a ti mísmo
+  - Eneatipo 5
+
+## 0. Introducción
 TOT: "Tip Of the Tongue" es como en sicología denominan el fenómeno de tener algo en "la punta de la lengua"; yo siempre he tenido esa sensación.
 El dios "Thot" tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades, "lo de arriba y lo de abajo" (Hermes).
 TOT fusiona los nombres de Teo + Otto, mis hijos.
 
 Esta palabra resuena conmigo y se manifiesta en forma de diario de un viaje, un proceso para recordar algo que tengo en la punta de la lengua y que proviene de la fuente.
 
-## Conocete a ti mismo
+## 1. Conocete a ti mismo
 
 ### Eneagrama
 Haces consciente tu propósito de vida. Descubres tu función, aquello para lo que has sido diseñado.
