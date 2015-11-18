@@ -5,16 +5,16 @@ TOT fusiona los nombres de Teo + Otto, mis hijos.
 
 Esta palabra resuena conmigo y se manifiesta en forma de diario de un viaje, un proceso para recordar algo que tengo en la punta de la lengua y que proviene de la fuente.
 
-## Paso 1º: Conocerse a uno mismo
+## Conocete a ti mismo
 
-### Uso del Eneagrama como herramienta.
-El Autodescubrimiento. Propósito de vida. Descubrir tu función primordial. Revelar y comprender lo que te ha sido dado al nacer y traerlo a este mundo.
+### Eneagrama
+Haces consciente tu propósito de vida. Descubres tu función, aquello para lo que has sido diseñado.
 
-#### Esqueleto psicologíco del Eneatipo 5 (ala 4). El Observador
+El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo la capacidad de verbalizar, miedo a hablar en público, etc.
 
-- Se centra hacia el 8 y se descentra hacia el 7.
+Mi esqueleto psicologíco es el Eneatipo 5 (con ala 4).
 
-- Mantenerse en contacto con la propia corporeidad y encauzar las energías a la acción.
+- Se centra hacia el 8 (Mantenerse en contacto con la propia corporeidad y encauzar las energías hacia la acción.)
 
 - Dejar que la vida sea maestra, mejor que depender de los propios esquemas mentales de referencia.
 
@@ -23,8 +23,6 @@ El Autodescubrimiento. Propósito de vida. Descubrir tu función primordial. Rev
 - Tiende a una necesidad neurótica por lo sublime, en lugar de por lo que hay, y una pasión por el conocimiento hermético.
 
 - Justificación personal: «sé, luego existo».
-
-- Posee una gran imaginación y capacidad de pensamiento y análisis, aunque vive la vida como un mero espectador.
 
 - Comprende que no tiene que saber absolutamente todo antes de poder actuar: se aprende más actuando, siendo capaz de resolver problemas en la medida que surjan.
 
@@ -36,7 +34,7 @@ El Autodescubrimiento. Propósito de vida. Descubrir tu función primordial. Rev
 
 - Más que vivir la vida, el eneatipo 5 la observa desde su impenetrable refugio, protegiendo exageradamente la pureza de su mundo interno.
 
-- No aceptamos opiniones  ni  doctrinas  recibidas, sentimos una fuerte necesidad de examinar por nosotrosmismos la verdad de todas las suposiciones.
+- No aceptamos opiniones  ni  doctrinas  recibidas, sentimos una fuerte necesidad de examinar por nosotros mismos la verdad de todas las suposiciones.
 
 - Para un 5 entender la vida vale tanto como vivirla.
 
@@ -44,13 +42,13 @@ El Autodescubrimiento. Propósito de vida. Descubrir tu función primordial. Rev
 
 - Aprovechan al máximo las capacidades de todo lo que les rodea.
 
-- Se especializan en las áreas que más les gusta, por lo que pueden ser muy útiles para otras personas en   determinados campos. Y como tienen un alto instinto de conservación,  un  5  siempre  tenderá  a  buscar  mejorar  lo  que existe (y le  gusta) para que se mantenga.
+- Un 5 siempre  tenderá  a  buscar  mejorar  lo  que existe (y le  gusta) para que se mantenga.
 
-- Les infunde respeto la majestuosidad de la realidad, con la mente clara y confiando en el Universo. Einstein dijo una vez: «La única pregunta que vale la pena hacer es: "¿Es amigo el Universo"?». Los Cinco liberados tienen una respuesta a esa pregunta. Están embelesados por lo que ven, no asustados de muerte, y se conviertenen verdaderos visionarios, capaces de producir cambios revolucionarios en su campo de actividad.
+- Les infunde respeto la majestuosidad de la realidad, con la mente clara y confiando en el Universo. Einstein dijo una vez: «La única pregunta que vale la pena hacer es: "¿Es amigo el Universo"?». Los Cinco liberados tienen una respuesta a esa pregunta. Están embelesados por lo que ven, no asustados de muerte, y se convierten en verdaderos visionarios, capaces de producir cambios revolucionarios en su campo de actividad.
 
 - Los Cinco liberados recuerdan el espacio y la  claridad de la mente divina, lo que los budistas llaman Sunyata o «el vacío brillante», la silenciosa e ininterrumpida vastedad de la que surge todo, incluidos el conocimiento y la creatividad. Anhelan volver a experimentar el vacío porque en otro tiempo fue su hogar, como fue (según la perspectiva budista) el origen de todos y de todo lo que existe en el mundo. Pero es preciso entender bien ese anhelo por volver al vacío, porque no es el vacío del olvido, sino el «vacío» de un vaso de agua pura o el de un cielo azul perfecto: todo lo demás es posible gracias a su vacío.
 
-- Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas  del mundo.
+> Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas del mundo.
 
 ### Formas, Color, Geometría Sagrada
 
