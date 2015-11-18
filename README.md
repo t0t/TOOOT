@@ -1,11 +1,7 @@
 # T:full_moon:T
-TOT (Tip Of the Tongue): es el nombre que recibe el fenómeno de tener algo en "la punta de la lengua". Es esa sensación que experimentamos cuando intentamos recordar un nombre o una palabra que conocemos sobradamente pero no podemos hacer aflorar en un momento dado.
+El nombre venía a mí una y otra vez... TOT (Tip Of the Tongue): es el fenómeno de tener algo en "la punta de la lengua". El dios "Thot" tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades, "lo de arriba y lo de abajo". Pero el nombre de TOT viene sobretodo de la yuxtaposición de Teo + Otto, mis hijos, mis maestros.
 
-En griego [Tot](https://es.wikipedia.org/wiki/Tot) (Θωθ1 ), es el dios de la sabiduría, la escritura, la música, los conjuros, hechizos mágicos... También se puede ver escrito como Thot, Toth o Thoth.
-
-Pero el nombre de TOT es la abreviatura de Teo y Otto, mis hijos, mis maestros.
-
-## ¿De qué va este proyecto?
+## ¿De qué va esto?
 El viaje del héroe.
 
 ### Fase 1
