@@ -11,7 +11,7 @@
 - Tot, en sicología es acrónimo de "Tip Of the Tongue", el fenómeno de tener algo en "la punta de la lengua"...
 - Si nos vamos a la historia y a la mitología encontramos la figura de Hermes Trimegisto o THOTH, una entidad que siempre me ha atraído y que tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades. THOTH escribió 7 principios en una tablilla conocida como el [Kybalión](http://www.caminosalser.com/i674-el-kybalion-los-7-secretos/).
 
-## Conócete a ti mismo
+## 1. El programa
 > Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas del mundo.
 
 Al igual que este proyecto, todos tenemos un nombre que se nos puso al nacer y bajo ese nombre y las circunstancias que lo envolvían fuiste contruyendo tu esqueleto psicologico, tu personalidad. La persona que crees que eres sigue los patrones de un programa que tú mismo has creado y que a su vez está embebido en un programa más grande que puedes llamar "totalidad", Dios, universo, energía, etc...
@@ -20,9 +20,7 @@ El primer punto es conocerse a uno mismo. Yo estoy empezando a hacerlo ahora, a 
 
 Esta herramienta se llama Eneagrama y su magia consiste en hacer observable al que observa mientras es observado. El ojo que siempre ha estado viendo la realidad y la mente que siempre ha estado procesandola tienen una estructura, una gramática, unas funciones, unas variables, unos datos. Es increíble darte cuenta de que puedes acceder ahí, a ese código fuente.
 
-El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo, la capacidad de verbalizar y traer al mundo lo mejor de mí mismo.
-
-Este es el aspecto que tendría mi "programa":
+###### Ejemplo del aspecto que tendría mi Programa:
 
 ```javascript
 // t0t
@@ -42,16 +40,25 @@ var miEneatipo = { [
   "Más que vivir la vida, el eneatipo 5 la observa desde su impenetrable refugio, protegiendo exageradamente la pureza de su mundo interno.",
   "No aceptamos opiniones  ni  doctrinas  recibidas, sentimos una fuerte necesidad de examinar por nosotros mismos la verdad de todas las suposiciones.",
   "Para un 5 entender la vida vale tanto como vivirla.",
-  "Sólo estaré  presente  en  mi  vida  cuando  me  sienta  seguro  y  capaz  de enfrentar  al  mundo. Cuando  comprenda  y  domine  totalmente  todo  lo  que  necesite  saber  en  la  vida;  entonces estaré presente.",
+  "Sólo estaré  presente  en  mi  vida  cuando  me  sienta  seguro  y  capaz  de enfrentar al mundo. Cuando  comprenda  y  domine  totalmente todo  lo  que  necesite  saber  en  la  vida;  entonces estaré presente.",
   "Aprovechan al máximo las capacidades de todo lo que les rodea.",
   "Un 5 siempre  tenderá  a  buscar  mejorar  lo  que existe (y le  gusta) para que se mantenga.",
   "Les infunde respeto la majestuosidad de la realidad, con la mente clara y confiando en el Universo. Einstein dijo una vez: «La única pregunta que vale la pena hacer es: "¿Es amigo el Universo"?». Los Cinco liberados tienen una respuesta a esa pregunta. Están embelesados por lo que ven, no asustados de muerte, y se convierten en verdaderos visionarios, capaces de producir cambios revolucionarios en su campo de actividad.",
-
-  "Los Cinco liberados recuerdan el espacio y la  claridad de la mente divina, lo que los budistas llaman Sunyata o «el vacío brillante», la silenciosa e ininterrumpida vastedad de la que surge todo, incluidos el conocimiento y la creatividad. Anhelan volver a experimentar el vacío porque en otro tiempo fue su hogar, como fue (según la perspectiva budista) el origen de todos y de todo lo que existe en el mundo. Pero es preciso entender bien ese anhelo por volver al vacío, porque no es el vacío del olvido, sino el «vacío» de un vaso de agua pura o el de un cielo azul perfecto: todo lo demás es posible gracias a su vacío."
+  "Los Cinco liberados recuerdan el espacio y la claridad de la mente divina, lo que los budistas llaman Sunyata o «el vacío brillante», la silenciosa e ininterrumpida vastedad de la que surge todo, incluidos el conocimiento y la creatividad. Anhelan volver a experimentar el vacío porque en otro tiempo fue su hogar, como fue (según la perspectiva budista) el origen de todos y de todo lo que existe en el mundo. Pero es preciso entender bien ese anhelo por volver al vacío, porque no es el vacío del olvido, sino el «vacío» de un vaso de agua pura o el de un cielo azul perfecto: todo lo demás es posible gracias a su vacío."
 ]}
 ```
+**Nota:** La integración es una de las características de este proyecto. Todo está relacionado. Lo profesional, lo personal, lo emocional... Todo!
 
-### Formas, Color, Geometría Sagrada
+### 2. Expresión
+El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo, la capacidad de verbalizar y traer al mundo lo mejor de mí mismo.
+
+Expresión significa dejar de presionar, aflojar, soltar lo que está en tu interior. Dicen que no entiendes realmente algo hasta que no lo explicas, puedes entenderlo a nivel intuitivo inconsciente pero al final se lo tienes que contar a alguien aunque sólo seas tú mismo.
+
+Tengo en preparación una serie de videos en los que trabajo este tema.
+
+### Formas, Color, Geometría Sagrada, Arte
+(En preparación)
+
 
 #### Fuentes
 - Eneagrama
