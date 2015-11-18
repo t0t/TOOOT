@@ -1,9 +1,5 @@
 # T:full_moon:T
 
-- 0 Introducción
-- 1 Conócete a ti mísmo
-  - Eneatipo 5
-
 ## Todo empieza con un nombre
 - "To do" en inglés significa "algo para hacer".
 - "Todo" en mi lengua materna es la palabra TOT.
@@ -51,7 +47,7 @@ var miEneatipo = {
 ```
 **Nota:** La integración es una de las características de este proyecto. Todo está relacionado. Lo profesional, lo personal, lo emocional, el mensaje, el medio... Todo! Por ejemplo, mi programa mental es representado por código real (javascript, css...). Esto es así por la naturaleza fractal de la realidad. Todo encaja. Estás leyendo este texto en Github que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus ramificaciones.
 
-### 2. Expresión
+## 2. Expresión
 El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo, la capacidad de verbalizar y traer al mundo lo mejor de mí mismo.
 
 Expresión significa dejar de presionar, aflojar, soltar lo que está en tu interior. Dicen que no entiendes realmente algo hasta que no lo explicas, puedes entenderlo a nivel intuitivo inconsciente pero al final se lo tienes que contar a alguien aunque sólo seas tú mismo.
