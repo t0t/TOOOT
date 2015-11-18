@@ -19,9 +19,9 @@ Esta herramienta se llama Eneagrama y su magia consiste en hacer observable al q
 
 ```javascript
 // t0t
-  function centramiento() {
-    return "Se centra hacia el 8: Mantenerse en contacto con la propia corporeidad y encauzar las energías hacia la acción."
-  }
+function centramiento() {
+  return "Se centra hacia el 8: Mantenerse en contacto con la propia corporeidad y encauzar las energías hacia la acción."
+}
 
 var miEneatipo = {
   [
@@ -70,9 +70,9 @@ Formas, Color, Geometría Sagrada, Arte
 
 Ejemplos de "nuevas" o quizá no tan nuevas formas de entender y vivir el arte:
 
-[Jesús Olmo](jesusolmo.com)
+[Jesús Olmo](http://jesusolmo.com)
 
-[Ricardo Andrés Tomás](flowpiano.es)
+[Ricardo Andrés Tomás](http://flowpiano.es)
 
 
 #### Fuentes
