@@ -12,7 +12,8 @@
 - Si nos vamos a la historia y a la mitología encontramos la figura de Hermes Trimegisto o THOTH, una entidad que siempre me ha atraído y que tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades. THOTH escribió 7 principios en una tablilla conocida como el [Kybalión](http://www.caminosalser.com/i674-el-kybalion-los-7-secretos/).
 
 ## 1. El programa
-> Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas del mundo.
+
+  > Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas del mundo.
 
 Al igual que este proyecto, todos tenemos un nombre que se nos puso al nacer y bajo ese nombre y las circunstancias que lo envolvían fuiste contruyendo tu esqueleto psicologico, tu personalidad. La persona que crees que eres sigue los patrones de un programa que tú mismo has creado y que a su vez está embebido en un programa más grande que puedes llamar "totalidad", Dios, universo, energía, etc...
 
