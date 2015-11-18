@@ -65,13 +65,13 @@ Tengo en preparación una serie de videos en los que trabajo este tema que tiene
 Bien. Entremos en materia... Todo, absolutamente todo es forma.
 Formas, Color, Geometría Sagrada, Arte
 
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_1435142_2_1.html?data=kpmgl5aYdo6ZmKiakpaJd6KnlZKSmaiRdY6ZmKiakpKJe6ShkZKSmaiRitPVyNLS0NnTb8XZjKrZjajFscPd0JKSmaiRuJHojoqkpZKU&"></iframe>
-
-Fragmento de "El Cambio"
+[Fragmento de "El Cambio"](http://www.ivoox.com/player_ek_1435142_2_1.html?data=kpmgl5aYdo6ZmKiakpaJd6KnlZKSmaiRdY6ZmKiakpKJe6ShkZKSmaiRitPVyNLS0NnTb8XZjKrZjajFscPd0JKSmaiRuJHojoqkpZKU&)
 
 Ejemplos de "nuevas" o quizá no tan nuevas formas de entender y vivir el arte:
-Jesús Olmo jesusolmo.com
-Ricardo Andrés Tomás flowpiano.es
+
+[Jesús Olmo](jesusolmo.com)
+
+[Ricardo Andrés Tomás](flowpiano.es)
 
 #### Fuentes
 - Eneagrama
