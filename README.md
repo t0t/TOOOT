@@ -50,18 +50,28 @@ var miEneatipo = {
   ]
 }
 ```
-**Nota:** La integración es una de las características de este proyecto. Todo está relacionado. Lo profesional, lo personal, lo emocional, el mensaje, el medio... Todo! Por ejemplo, mi programa mental es representado por código real (javascript, css...). Esto es así por la naturaleza fractal de la realidad. Todo encaja. Estás leyendo este texto en Github que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus ramificaciones.
+**Nota:** La integración es una de las características de este proyecto. Todo está relacionado. Lo profesional, lo personal, lo emocional, el mensaje, el medio... Todo! Por ejemplo, mi programa mental es representado por código real (javascript, css...). Esto es así por la naturaleza fractal de la realidad. Todo encaja. Estás leyendo este texto en Github que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus diversas ramas.
 
 ## 2. Expresión
 El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo, la capacidad de verbalizar y traer al mundo lo mejor de mí mismo.
 
 Expresión significa dejar de presionar, aflojar, soltar lo que está en tu interior. Dicen que no entiendes realmente algo hasta que no lo explicas, puedes entenderlo a nivel intuitivo inconsciente pero al final se lo tienes que contar a alguien aunque sólo seas tú mismo.
 
-Tengo en preparación una serie de videos en los que trabajo este tema.
+Tengo en preparación una serie de videos en los que trabajo este tema que tiene que ver directamente con mi programa, con mi forma de percibir el mundo y mis carencias. Cada persona tendría el suyo, logicamente.
 
-### Formas, Color, Geometría Sagrada, Arte
-(En preparación)
+## 3. Materia
+(En preparación...)
 
+Bien. Entremos en materia... Todo, absolutamente todo es forma.
+Formas, Color, Geometría Sagrada, Arte
+
+<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_1435142_2_1.html?data=kpmgl5aYdo6ZmKiakpaJd6KnlZKSmaiRdY6ZmKiakpKJe6ShkZKSmaiRitPVyNLS0NnTb8XZjKrZjajFscPd0JKSmaiRuJHojoqkpZKU&"></iframe>
+
+Fragmento de "El Cambio"
+
+Ejemplos de "nuevas" o quizá no tan nuevas formas de entender y vivir el arte:
+Jesús Olmo jesusolmo.com
+Ricardo Andrés Tomás flowpiano.es
 
 #### Fuentes
 - Eneagrama
