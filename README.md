@@ -1,13 +1,16 @@
 # T:full_moon:T
-El nombre venía a mí una y otra vez... TOT (Tip Of the Tongue): es el fenómeno de tener algo en "la punta de la lengua". El dios "Thot" tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades, "lo de arriba y lo de abajo". Pero el nombre de TOT viene sobretodo de la yuxtaposición de Teo + Otto, mis hijos, mis maestros.
+TOT: "Tip Of the Tongue" es como en sicología denominan el fenómeno de tener algo en "la punta de la lengua"; yo siempre he tenido esa sensación.
+El dios "Thot" tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades, "lo de arriba y lo de abajo" (Hermes).
+TOT fusiona los nombres de Teo + Otto, mis hijos.
 
-## ¿De qué va esto?
-El viaje del héroe.
+Esta palabra resuena conmigo y se manifiesta en forma de diario de un viaje, un proceso para recordar algo que tengo en la punta de la lengua y que proviene de la fuente.
 
-### Fase 1
-El Autodescubrimiento. Propósito de vida. Tu función primordial es revelada. Comprender lo que te ha sido dado y traerlo a este mundo. Uso del Eneagrama como herramienta.
+## Paso 1º: Conocerse a uno mismo
 
-#### Eneatipo 5 (ala 4). El Observador
+### Uso del Eneagrama como herramienta.
+El Autodescubrimiento. Propósito de vida. Descubrir tu función primordial. Revelar y comprender lo que te ha sido dado al nacer y traerlo a este mundo.
+
+#### Esqueleto psicologíco del Eneatipo 5 (ala 4). El Observador
 
 - Se centra hacia el 8 y se descentra hacia el 7.
 
@@ -49,12 +52,11 @@ El Autodescubrimiento. Propósito de vida. Tu función primordial es revelada. C
 
 - Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas  del mundo.
 
-### Matemáticas vorticiales
+### Formas, Color, Geometría Sagrada
+
+#### Fuentes
+- Eneagrama
+- [Libros Geocrom](http://martapovo.es/sus-libros/)
+- Matemáticas vorticiales
 - Teoría del todo de Valdeande Mágico
 - Marko Rodin
-
-### Geometría
-
-#### Enlaces
-- [#t0tfotos](http://www.tumblr.com/t0tfotos) Diario fotográfico
-- [#TOT](https://www.facebook.com/T0T-156415467869146/) Facebook page
