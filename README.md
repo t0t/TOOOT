@@ -4,25 +4,31 @@
 - 1 Conócete a ti mísmo
   - Eneatipo 5
 
-## 0. Introducción
-TOT: "Tip Of the Tongue" es como en sicología denominan el fenómeno de tener algo en "la punta de la lengua"; yo siempre he tenido esa sensación.
-El dios "Thot" tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades, "lo de arriba y lo de abajo" (Hermes).
-TOT fusiona los nombres de Teo + Otto, mis hijos.
+## Todo empieza con un nombre
+- "To do" en inglés significa "algo para hacer".
+- "Todo" en mi lengua materna es la palabra TOT.
+- Teo y Otto, mis hijos, tienen predominantemente estas letras; la T y la O
+- Tot, en sicología es acrónimo de "Tip Of the Tongue", el fenómeno de tener algo en "la punta de la lengua"...
+- Si nos vamos a la historia y a la mitología encontramos la figura de Hermes Trimegisto o THOTH, una entidad que siempre me ha atraído y que tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades. THOTH escribió 7 principios en una tablilla conocida como el [Kybalión](http://www.caminosalser.com/i674-el-kybalion-los-7-secretos/).
 
-Esta palabra resuena conmigo y se manifiesta en forma de diario de un viaje, un proceso para recordar algo que tengo en la punta de la lengua y que proviene de la fuente.
+## Conócete a ti mismo
+Al igual que este proyecto, todos tenemos un nombre que se nos puso al nacer y bajo ese nombre y las circunstancias que lo envolvían fuiste contruyendo tu esqueleto psicologico, tu personalidad. La persona que crees que eres sigue los patrones de un programa que tú mismo has creado y que a su vez está embebido en un programa más grande que puedes llamar "totalidad", Dios, universo, energía, etc...
 
-## 1. Conocete a ti mismo
+Pero eso lo veremos más tarde, el primer punto es conocerse a uno mismo. Yo estoy empezando a hacerlo ahora, a los 40 años, a raiz de una maravillosa crisis existencial que atrajo a mi vida una herramienta que te ayuda a darte cuenta de cómo has sido programado. A medida que comprendes tu programa vas viendo más claramente cual es la función para la que has sido diseñado y puedes refactorizarte! (La refactorización en términos informáticos es un proceso por el cual se optimiza un código para que funcione mejor.)
 
-### Eneagrama
-Haces consciente tu propósito de vida. Descubres tu función, aquello para lo que has sido diseñado.
+Esta herramienta se llama Eneagrama y su magia consiste en hacer observable al que observa mientras es observado. El ojo que siempre ha estado viendo la realidad y la mente que siempre ha estado procesandola tienen una estructura, una gramática, unas funciones, unas variables, unos datos. Es increíble darte cuenta de que puedes acceder ahí, a ese código fuente.
 
-El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo la capacidad de verbalizar, miedo a hablar en público, etc.
+El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo, la capacidad de verbalizar y traer al mundo lo mejor de mí mismo.
 
-Mi esqueleto psicologíco es el Eneatipo 5 (con ala 4).
+Este es el aspecto que tendría mi "programa":
 
-- Se centra hacia el 8 (Mantenerse en contacto con la propia corporeidad y encauzar las energías hacia la acción.)
+```
+<t0t>
+  function centramiento() {
+  Se centra hacia el 8: Mantenerse en contacto con la propia corporeidad y encauzar las energías hacia la acción.
+  }
 
-- Dejar que la vida sea maestra, mejor que depender de los propios esquemas mentales de referencia.
+var mensaje1 = "Dejar que la vida sea maestra, mejor que depender de los propios esquemas mentales de referencia."
 
 - Debe incorporar sus percepciones del mundo, identificándose con ellas en vez de observarlas tan sólo. No identificarse sólo con sus pensamientos, sino también con los objetos de los mismos.
 
@@ -53,7 +59,8 @@ Mi esqueleto psicologíco es el Eneatipo 5 (con ala 4).
 - Les infunde respeto la majestuosidad de la realidad, con la mente clara y confiando en el Universo. Einstein dijo una vez: «La única pregunta que vale la pena hacer es: "¿Es amigo el Universo"?». Los Cinco liberados tienen una respuesta a esa pregunta. Están embelesados por lo que ven, no asustados de muerte, y se convierten en verdaderos visionarios, capaces de producir cambios revolucionarios en su campo de actividad.
 
 - Los Cinco liberados recuerdan el espacio y la  claridad de la mente divina, lo que los budistas llaman Sunyata o «el vacío brillante», la silenciosa e ininterrumpida vastedad de la que surge todo, incluidos el conocimiento y la creatividad. Anhelan volver a experimentar el vacío porque en otro tiempo fue su hogar, como fue (según la perspectiva budista) el origen de todos y de todo lo que existe en el mundo. Pero es preciso entender bien ese anhelo por volver al vacío, porque no es el vacío del olvido, sino el «vacío» de un vaso de agua pura o el de un cielo azul perfecto: todo lo demás es posible gracias a su vacío.
-
+</t0t>
+```
 > Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas del mundo.
 
 ### Formas, Color, Geometría Sagrada
