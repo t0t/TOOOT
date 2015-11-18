@@ -56,7 +56,11 @@ Tengo en preparación una serie de videos en los que trabajo este tema que tiene
 ## 3. Materia
 (En preparación...)
 
-Bien. Entremos en materia... Todo, absolutamente todo es forma.
+Bien. Entremos en materia...
+
+> Lo que realmente importa no puede verse,
+pero sabes cuándo está y cuando no.
+
 Formas, Color, Geometría Sagrada, Arte
 
 - [#t0tfotos](http://www.tumblr.com/t0tfotos) Diario fotográfico
