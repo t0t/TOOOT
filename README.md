@@ -12,13 +12,13 @@
 
   > Tu verdadera  naturaleza es participar en la  realidad, contemplando las riquezas  infinitas del mundo.
 
-Al igual que este proyecto, todos tenemos un nombre que se nos puso al nacer y bajo ese nombre y las circunstancias que lo envolvían fuiste contruyendo tu esqueleto psicologico, tu personalidad. La persona que crees que eres sigue los patrones de un programa que tú mismo has creado y que a su vez está embebido en un programa más grande que puedes llamar "totalidad", Dios, universo, energía, etc...
+Al igual que este proyecto, todos tenemos un nombre que se nos puso al nacer y bajo ese nombre y las circunstancias que lo envolvían fuiste contruyendo tu esqueleto psicologico, tu personalidad. La persona que crees que eres sigue los patrones de un programa que tú mismo has creado influído por el entorno en el que has crecido, y que a su vez, está embebido en un programa mucho más grande que puedes llamar "totalidad", Dios, universo, energía, etc...
 
 El primer punto es conocerse a uno mismo. Yo estoy empezando a hacerlo ahora, a los 40 años, a raiz de una maravillosa crisis existencial que atrajo a mi vida una herramienta que te ayuda a darte cuenta de cómo has sido programado. A medida que comprendes tu programa vas viendo más claramente cual es la función para la que has sido diseñado y puedes refactorizarte! (La refactorización en términos informáticos es un proceso por el cual se optimiza un código para que funcione mejor.)
 
 ![Eneagrama](./grafico_eneagrama.png)
 
-Esta herramienta se llama Eneagrama y su magia consiste en hacer observable al que observa mientras es observado. El ojo que siempre ha estado viendo la realidad y la mente que siempre ha estado procesandola tienen una estructura, una gramática, unas funciones, unas variables, unos datos. Es increíble darte cuenta de que puedes acceder ahí, a ese código fuente.
+Esta herramienta se llama Eneagrama y su magia consiste en hacer observable al que observa mientras es observado. Te das cuenta de que el ojo que siempre ha estado viendo la realidad y la mente que siempre ha estado procesandola tienen una estructura, una gramática, unas funciones, unas variables, unos datos. Es increíble darte cuenta de que puedes acceder ahí, a ese código fuente.
 
 ###### Ejemplo del aspecto que tendría mi Programa:
 
