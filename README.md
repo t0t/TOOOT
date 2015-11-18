@@ -1,4 +1,5 @@
 # T:full_moon:T
+#### Este proyecto no pretende ser un tratado filosófico, sino la aplicación práctica de mi propio proceso existencial
 - "To do" en inglés significa "algo para hacer".
 - "Todo" en mi lengua materna es la palabra TOT.
 - Teo y Otto, mis hijos, tienen predominantemente estas letras; la `T` y la `O`
