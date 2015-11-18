@@ -13,7 +13,7 @@ Al igual que este proyecto, todos tenemos un nombre que se nos puso al nacer y b
 
 El primer punto es conocerse a uno mismo. Yo estoy empezando a hacerlo ahora, a los 40 años, a raiz de una maravillosa crisis existencial que atrajo a mi vida una herramienta que te ayuda a darte cuenta de cómo has sido programado. A medida que comprendes tu programa vas viendo más claramente cual es la función para la que has sido diseñado y puedes refactorizarte! (La refactorización en términos informáticos es un proceso por el cual se optimiza un código para que funcione mejor.)
 
-![alt text](./grafico_eneagrama.svg "Eneagrama")
+![alt text](/grafico_eneagrama.svg "Eneagrama")
 
 Esta herramienta se llama Eneagrama y su magia consiste en hacer observable al que observa mientras es observado. El ojo que siempre ha estado viendo la realidad y la mente que siempre ha estado procesandola tienen una estructura, una gramática, unas funciones, unas variables, unos datos. Es increíble darte cuenta de que puedes acceder ahí, a ese código fuente.
 
