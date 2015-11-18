@@ -7,8 +7,8 @@
 ## Todo empieza con un nombre
 - "To do" en inglés significa "algo para hacer".
 - "Todo" en mi lengua materna es la palabra TOT.
-- Teo y Otto, mis hijos, tienen predominantemente estas letras; la T y la O
-- Tot, en sicología es acrónimo de "Tip Of the Tongue", el fenómeno de tener algo en "la punta de la lengua"...
+- Teo y Otto, mis hijos, tienen predominantemente estas letras; la `T` y la `O`
+- Tot, en sicología es acrónimo de "Tip Of the Tongue", el fenómeno de tener algo en *"la punta de la lengua"*...
 - Si nos vamos a la historia y a la mitología encontramos la figura de Hermes Trimegisto o THOTH, una entidad que siempre me ha atraído y que tenía la capacidad de moverse en el mundo de los dioses y el de los humanos, servía de mediador, hacía de puente entre dos realidades. THOTH escribió 7 principios en una tablilla conocida como el [Kybalión](http://www.caminosalser.com/i674-el-kybalion-los-7-secretos/).
 
 ## 1. El programa
