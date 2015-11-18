@@ -1,9 +1,5 @@
 # T:full_moon:T
 
-[#t0tfotos](http://www.tumblr.com/t0tfotos) Diario fotográfico
-
-[#TOT](https://www.facebook.com/T0T-156415467869146/) Facebook page
-
 ## Todo empieza con un nombre
 - "To do" en inglés significa "algo para hacer".
 - "Todo" en mi lengua materna es la palabra TOT.
@@ -65,13 +61,17 @@ Tengo en preparación una serie de videos en los que trabajo este tema que tiene
 Bien. Entremos en materia... Todo, absolutamente todo es forma.
 Formas, Color, Geometría Sagrada, Arte
 
-[Fragmento de "El Cambio"](http://www.ivoox.com/player_ek_1435142_2_1.html?data=kpmgl5aYdo6ZmKiakpaJd6KnlZKSmaiRdY6ZmKiakpKJe6ShkZKSmaiRitPVyNLS0NnTb8XZjKrZjajFscPd0JKSmaiRuJHojoqkpZKU&)
+- [#t0tfotos](http://www.tumblr.com/t0tfotos) Diario fotográfico
+- [#TOT](https://www.facebook.com/T0T-156415467869146/) Facebook page
+
+[Audio](http://www.ivoox.com/player_ek_1435142_2_1.html?data=kpmgl5aYdo6ZmKiakpaJd6KnlZKSmaiRdY6ZmKiakpKJe6ShkZKSmaiRitPVyNLS0NnTb8XZjKrZjajFscPd0JKSmaiRuJHojoqkpZKU&) Fragmento de "El Cambio"
 
 Ejemplos de "nuevas" o quizá no tan nuevas formas de entender y vivir el arte:
 
 [Jesús Olmo](jesusolmo.com)
 
 [Ricardo Andrés Tomás](flowpiano.es)
+
 
 #### Fuentes
 - Eneagrama
