@@ -1,5 +1,9 @@
 # T:full_moon:T
 
+[#t0tfotos](http://www.tumblr.com/t0tfotos) Diario fotográfico
+
+[#TOT](https://www.facebook.com/T0T-156415467869146/) Facebook page
+
 ## Todo empieza con un nombre
 - "To do" en inglés significa "algo para hacer".
 - "Todo" en mi lengua materna es la palabra TOT.
