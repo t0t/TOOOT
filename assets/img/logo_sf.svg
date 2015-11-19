@@ -1,7 +1,0 @@
-<svg class="brand__logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 180">
-					<title>Logo SF</title>
-					<desc>sergiofores.net</desc>
-					<path class="juguete" d="M0 36 L36 36 L36 72 L0 72 L0 36 Z"/>
-					<path class="mano" d="M36 72 L72 72 L72 108 L36 108 L36 72 Z"/>
-					<path class="cuerpo" d="M72 144 C72 144 0 144 0 144 L0 180 L108 180 L108 0 L72 0 C72 0 72 144 72 144 Z"/>
-				</svg>
