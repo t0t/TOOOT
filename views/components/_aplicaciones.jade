@@ -1,0 +1,22 @@
+mixin aplicaciones(...lugares)
+	.widget.widget-aplicaciones
+		h4.widget__title
+			| Aplicaciones
+		ul.widget__list
+			each lugar in lugares
+				li.widget__list__item
+					| #{lugar}
++aplicaciones(
+	'Vigas',
+	'Balcones',
+	'Casas de madera',
+	'Puertas',
+	'Muebles de jardín',
+	'Columnas',
+	'Ventanas',
+	'Vallas',
+	'Muebles',
+	'Pérgolas',
+	'Mobiliario urbano',
+	'Corcho'
+)

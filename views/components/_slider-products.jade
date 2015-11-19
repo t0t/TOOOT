@@ -1,0 +1,8 @@
+div.slider-productos
+	each prod in Productos
+		div
+			a.btn-slider-product(href="##{prod.slug}")
+				h2.h6.slider__item-title--product
+					| #{prod.nombre}
+				figure
+					img.slider__item-image(data-lazy="#{prod.img}", alt="#{prod.nombre}")

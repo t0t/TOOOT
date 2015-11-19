@@ -1,0 +1,533 @@
+{
+    "site": [
+      {
+        "title": "xxx",
+        "description": "xxx",
+        "author": "Sergio Forés"
+      }
+    ],
+    "widgets": [
+      {
+        "info": {
+          "title": "xxx:",
+          "parrafo": "xxx"
+        },
+        "home": {
+          "title": "xxx",
+          "parrafo": "xxx"
+        },
+        "outlink": {
+          "text": "xxx",
+          "img": "./assets/img/xxx.png",
+          "link": "http://xxx.com"
+        }
+      }
+    ],
+    "eneagrama": [
+      "Dejar que la vida sea maestra, mejor que depender de los propios esquemas mentales de referencia.",
+      "Debe incorporar sus percepciones del mundo, identificándose con ellas en vez de observarlas tan sólo. No identificarse sólo con sus pensamientos, sino también con los objetos de los mismos.",
+      "Tiende a una necesidad neurótica por lo sublime, en lugar de por lo que hay, y una pasión por el conocimiento hermético.",
+      "Justificación personal: «sé, luego existo».",
+      "Comprende que no tiene que saber absolutamente todo antes de poder actuar: se aprende más actuando, siendo capaz de resolver problemas en la medida que surjan.",
+      "Aprende que es capaz de aportar algo valioso a los demás. Sus pensamientos adquieren expresión a través de la acción y el liderazgo. Muestra a los demás cómo hacer lo que sólo él sabe hacer. El valor práctico de sus ideas es incalculable.",
+      "Refugiado en su mente, anhela descubrir el por qué de las cosas, entendiendo cómo funciona el mundo en general y cualquier cosa en particular. Siempre está investigando, haciendo preguntas y ahondando en diversos temas.",
+      "Búsqueda de la felicidad a través de acumular conocimientos.",
+      "Más que vivir la vida, el eneatipo 5 la observa desde su impenetrable refugio, protegiendo exageradamente la pureza de su mundo interno.",
+      "No aceptamos opiniones  ni  doctrinas  recibidas, sentimos una fuerte necesidad de examinar por nosotros mismos la verdad de todas las suposiciones.",
+      "Para un 5 entender la vida vale tanto como vivirla.",
+      "Sólo estaré  presente  en  mi  vida  cuando  me  sienta  seguro  y  capaz  de enfrentar al mundo. Cuando  comprenda  y  domine  totalmente todo  lo  que  necesite  saber  en  la  vida;  entonces estaré presente.",
+      "Aprovechan al máximo las capacidades de todo lo que les rodea.",
+      "Un 5 siempre  tenderá  a  buscar  mejorar  lo  que existe (y le  gusta) para que se mantenga.",
+      "Les infunde respeto la majestuosidad de la realidad, con la mente clara y confiando en el Universo. Einstein dijo una vez: «La única pregunta que vale la pena hacer es: '¿Es amigo el Universo?'. Los Cinco liberados tienen una respuesta a esa pregunta. Están embelesados por lo que ven, no asustados de muerte, y se convierten en verdaderos visionarios, capaces de producir cambios revolucionarios en su campo de actividad.",
+      "Los Cinco liberados recuerdan el espacio y la claridad de la mente divina, lo que los budistas llaman Sunyata o «el vacío brillante», la silenciosa e ininterrumpida vastedad de la que surge todo, incluidos el conocimiento y la creatividad. Anhelan volver a experimentar el vacío porque en otro tiempo fue su hogar, como fue (según la perspectiva budista) el origen de todos y de todo lo que existe en el mundo. Pero es preciso entender bien ese anhelo por volver al vacío, porque no es el vacío del olvido, sino el «vacío» de un vaso de agua pura o el de un cielo azul perfecto: todo lo demás es posible gracias a su vacío."
+    ],
+    "pages":[
+        {
+          "empresa": {
+            "title": "La Empresa",
+            "subtitle": "En FKR QUIMICA nos dedicamos a la formulación, fabricación y posterior comercialización de productos para la protección de la madera, sector en el que somos unos consumados y reconocidos especialistas desde hace ya más de 40 años.",
+            "parrafos": [ "", "" ],
+            "lista": {
+              "title": "Una listita",
+              "item": [
+                "El hecho de ser una empresa familiar hace que seamos muy flexibles, lo que nos permite ofrecer un trato personalizado y muy cercano a nuestros cliente a la par que un servicio inmediato.",
+                "MADERLIM es una marca propiedad de FKR QUÍMICA, S.L. que abarca una amplía gama de productos destinados a la protección, conservación y decoración de la madera, tanto para interiores como para exteriores.",
+                "Todas estas característica hacen de FKR QUIMICA, S.L. una empresa diferente y de confianza."
+              ]
+            },
+            "links": "productos.html",
+            "image": "assets/img/madera.jpg",
+            "description": "Nos dedicamos a crear productos que protegen, conservan y decoran la madera"
+          }
+        },
+        {
+          "aplicaciones": {
+            "title": "Aplicaciones",
+            "destacado": "Nuestro Departamento Técnico ha considerado una serie de posibilidades y variadas situaciones que le ayudarán a elegir el producto perfecto para su madera.",
+            "nota": "Si quiere formularnos alguna consulta particular o sugerencia puede hacerlo a través de ",
+            "subapartados": [
+              {
+                "1": {
+                  "title": "Maderas Nuevas",
+                  "parrafo": [
+                    "1º Se aconsejar lijar la madera, de modo que quede lisa al tacto. De esta forma, el acabado siempre será mejor. A continuación eliminar el polvo con un trapo o cepillo.",
+                    "2º Aplicar una mano de MADERLIM FONDO AL AGUA.",
+                    "3º Lijado suave con una lija extrafina. El lijado siempre debe hacerse en el sentido de la veta. Se debe esperar unas 4 horas mínimo para lijar.",
+                    "4º Dar una o dos manos de MADERLIM DECORATIVO AL AGUA. El tiempo entre mano y mano ha de ser de 2 horas como mínimo."
+                  ]
+                },
+                "2": {
+                  "title": "Maderas ya lasuradas",
+                  "parrafo": [
+                    "1º Limpiar y acondicionar la superficie con un trapo eliminado las posibles impurezas de la superficie.",
+                    "2º Una vez preparada la superficie actuar como si de una MADERA NUEVA se tratara."
+                  ]
+                },
+                "3": {
+                  "title": "Maderas ya barnizadas o pintadas con anterioridad",
+                  "parrafo": [
+                    "Eliminar cuidadosamente las capas de pintura o barniz. Esta limpieza debe realizarse a conciencia dado que si aplicamos el lasur en una superficie pintada o barnizada, este no penetrará en la madera, será totalmente ineficaz y se evaporará lentamente.",
+                    "Una vez eliminada esta capa actuar como si de una MADERA NUEVA se tratara"
+                  ]
+                },
+                "4": {
+                  "title": "Maderas para interior",
+                  "parrafo": [
+                    "La madera que no está expuesta a la acción de los rayos solares ni a cambios bruscos de temperatura y humedad, soporta mucho mejor el paso del tiempo. Si son maderas barnizadas o pintadas anteriormente, hay que eliminar la capa de pintura o barniz.",
+                    "1º Limpiar la superficie eliminando restos de polvo o suciedad. Si se quiere un mejor acabado se aconseja realizar un lijado anterior con una lija de grano grueso.",
+                    "2º Aplicar una mano de MADERLIM DECORATIVO AL AGUA (incoloro o con color)",
+                    "3º Lijado suave con una lija extrafina. El lijado siempre debe hacerse en el sentido de la veta. Se debe esperar unas 4 horas mínimo para lijar.",
+                    "4º Aplicar otra mano del MADERLIM DECORATIVO AL AGUA elegido."
+                  ]
+                },
+                "5": {
+                  "title": "Maderas muy expuestas a los rayos solares (U.V.)",
+                  "parrafo": [
+                    "Si se trata de maderas barnizadas o pintadas anteriormente hay que eliminar primeramente la capa de barniz o pintura. De esta manera conseguiremos que el protector penetre en la madera. Una vez conseguido esto actuaremos del siguiente modo:",
+                    "1º Se aconsejar lijar la madera de modo que quede lisa al tacto. El acabado siempre será mejor. A continuación eliminar el polvo con un trapo o cepillo.",
+                    "2º Aplicar una mano de MADERLIM FONDO AL AGUA",
+                    "3º Lijado suave con una lija extrafina. El lijado siempre debe hacerse en el sentido de la veta. Se debe esperar unas 4 horas mínimo para lijar.",
+                    "4º Dar una o dos manos de MADERLIM DECORATIVO AL AGUA.El tiempo entre mano y mano será de dos horas como mínimo.",
+                    "5º Para acabar aplicar una mano de MADERLIM SOLAR AL AGUA"
+                  ]
+                },
+                "6": {
+                  "title": "Maderas atacadas por carcoma, térmitas...",
+                  "parrafo": [
+                    "La aplicación contra carcomas y termitas deben realizarla empresas especializadas. No obstante, en las zonas donde usted mismo pueda realizar este tratamiento (tales como vigas, puertas, portones, vallas, pérgolas, etc.) los pasos a seguir son los siguientes:",
+                    "1º Eliminar, si la hubiera, la capa superficial de barniz o pintura. Esta operación se puede realizar mediante lijado o utilizando decapantes.",
+                    "2º Inyectar MADERLIM MATACARCOMA en los orificios visibles. Esta aplicación puede hacerse mediante una jeringuilla. Vale cualquier tipo de jeringuilla que permita introducir el protector en el interior de la madera. Cuanto más adentro penetre, mejor protegida estará.",
+                    "3º Aplicar MADERLIM MATACARCOMA en toda la superficie, haciendo especial hincapié en las fendas superficiales, grietas o base de las patas. Esta aplicación puede realizarse por pincelado o pulverización. Después de esperar a que los disolventes se evaporen puede procederse al tapado de los orificios mediante masillas especiales o ceras.",
+                    "4º Aplicar el lasur, barniz o pintura que se desee. Para darle a la madera el acabado final."
+                  ]
+                },
+                "7": {
+                  "title": "Maderas Tropicales",
+                  "parrafo": [
+                    "Debido a su elevado contenido en extractos y exudados, se debe proceder a una limpieza muy enérgica y cuidadosa con un disolvente universal o “nitro” antes de dar la primera mano de FONDO.",
+                    "Tener en cuenta también que debido a su poca porosidad, este tipo de maderas absorben poco y son difíciles de impregnar, por lo que los tiempos de secado pueden alargarse.",
+                    "Su propia naturaleza les hace muy resistentes a la exposición a la intemperie."
+                  ]
+                }
+              }
+            ],
+            "lista": {
+              "title": "",
+              "item": [
+                "El hecho de ser una empresa familiar hace que seamos muy flexibles, lo que nos permite ofrecer un trato personalizado y muy cercano a nuestros cliente a la par que un servicio inmediato.",
+                "MADERLIM es una marca propiedad de FKR QUÍMICA, S.L. que abarca una amplía gama de productos destinados a la protección, conservación y decoración de la madera, tanto para interiores como para exteriores.",
+                "Todas estas características hacen de FKR QUIMICA, S.L. una empresa diferente y de confianza."
+              ]
+            },
+            "links":"productos.html",
+            "image":"assets/img/madera.jpg",
+            "description":"Nos dedicamos a crear productos que protegen, conservan y decoran la madera"
+          }
+        },
+        {
+          "contacto": {
+            "title": "Contacto",
+            "telefono": "+34 964 401 864",
+            "fax": "+34 964 400 846",
+            "email": "maderlim@fkrquimica.com",
+            "subtitle": "",
+            "direccion": "FKR QUIMICA, S.L. Ctra. Morella Km 0’7 12500 Vinaròs (Castellón)",
+            "links": "",
+            "image": ""
+          }
+        }
+    ],
+    "productos":[
+        {
+            "id":1,
+            "nombre":"Lasur Decorativo",
+            "slug":"lasur-decorativo",
+            "img":"./assets/img/lasur-decorativo.png",
+            "description":{
+                "features":[
+                    "Combinación 2 en 1 (Fondo + acabado)",
+                    "Amplia gama de colores",
+                    "Secado rápido"
+                ],
+                "registro":"Nº Reg. Ministerio Sanidad y Consumo 07-80-04480",
+                "ficha_tecnica":"assets/pdf/lasur_decorativo.pdf.zip",
+                "accion_especial":"Lasur especial para exteriores con protección contra hongos e insectos xylófagos que incorpora filtros solares"
+            },
+            "ficha":{
+                "tipo":[
+                    "Lasur para la madera a base de resinas acrílicas en base agua de partícula muy fina con pigmentos de colores transparentes.",
+                    "Combinación de estabilizadores de la luz solar a base de absorbentes de radiaciones U.V.",
+                    "Principios biocidas de protección preventiva contra los agentes biológicos destructores de la madera"
+                ],
+                "caracteristicas":[
+                    "Acabado satinado a poro abierto.",
+                    "Protección prolongada de la madera tratada.",
+                    "Hidrófugo regulador de la humedad y transpirable.",
+                    "Protección contra la radiación solar U.V.",
+                    "Gran elasticidad.",
+                    "Disponible en varios colores.",
+                    "Secado rápido.",
+                    "Impregnación penetrante."
+                ],
+                "aplicaciones":[
+                    "Como lasur para la madera con acabado en varios colores a elegir.",
+                    "Como protector contra los rayos U.V. del sol y efecto biocida contra hongos e insectos xilófagos.",
+                    "Indicado para toda clase de madera, tanto para interior como para exterior."
+                ],
+                "caracteristicas_tecnicas":[
+                    {
+                        "Color":"Incoloro."
+                    },
+                    {
+                        "Olor":"Inoloro"
+                    },
+                    {
+                        "Densidad":"(20ºC): 1’05-1’08 Kg/L."
+                    },
+                    {
+                        "Viscosidad":"(20ºC): 12-15 Copa Din 4."
+                    },
+                    {
+                        "Brillo":"Satinado"
+                    },
+                    {
+                        "Temp. Aplicación":"No aplicar nunca por debajo de 5º C."
+                    },
+                    {
+                        "Punto de inflamación":"No inflamable"
+                    },
+                    {
+                        "Solubilidad al agua":"Completamente saluble"
+                    },
+                    {
+                        "Tiempo de secado":"Al tacto 2h. Para aplicar una segunda mano dejar secar de 6 a 12h."
+                    }
+                ]
+            }
+        },
+        {
+            "id":2,
+            "nombre":"Fondo",
+            "slug":"fondo-agua",
+            "img":"assets/img/fondo-agua.png",
+            "description":{
+                "features":[
+                    "Contra pudriciones y carcomas.",
+                    "Hidrófugo, regulador de la humedad."
+                ],
+                "registro":"",
+                "ficha_tecnica":"assets/pdf/fondo_al_agua.docx.pdf.zip",
+                "accion_especial":"Protector que actúa como base impregnante de la madera con capacidad insecticida, fungicida e hidrófuga."
+            },
+            "ficha":{
+                "tipo":[
+                    "Imprimación de fondo incoloro para la protección de la madera a base de resinas acrílicas al agua.",
+                    "Es un fondo protector preventivo contra insectos, hongos y carcoma."
+                ],
+                "caracteristicas":[
+                    "Capacidad insecticida, fungicida e hidrófuga.",
+                    "Hidrófugo regulador de la humedad y totalmente transpirable.",
+                    "Protege la madera contra pudriciones y carcomas.",
+                    "Secado rápido.",
+                    "Impregnación penetrante."
+                ],
+                "aplicaciones":[
+                    "Como imprimación de fondo protector contra el azulado y la carcoma así como preparador de la madera para el acabado.",
+                    "Indicado para toda clase de madera, tanto para interior como para exterior."
+                ],
+                "caracteristicas_tecnicas":[
+                    {
+                        "Color":"Incoloro."
+                    },
+                    {
+                        "Olor":"Inoloro"
+                    },
+                    {
+                        "Densidad":"(20ºC): 1’05-1’08 Kg/L."
+                    },
+                    {
+                        "Viscosidad":"(20ºC): 12-15 Copa Din 4."
+                    },
+                    {
+                        "Brillo":"Satinado"
+                    },
+                    {
+                        "Temp. Aplicación":"No aplicar nunca por debajo de 5º C."
+                    },
+                    {
+                        "Punto de inflamación":"No inflamable"
+                    },
+                    {
+                        "Solubilidad al agua":"Completamente saluble"
+                    },
+                    {
+                        "Tiempo de secado":"Al tacto 2h. Para aplicar una segunda mano dejar secar de 6 a 12h."
+                    }
+                ]
+            }
+        },
+        {
+            "id":3,
+            "nombre":"Solar incoloro",
+            "slug":"solar-incoloro",
+            "img":"assets/img/solar-incoloro.png",
+            "description":{
+                "features":[
+                    "Protección MÁXIMA contra rayos U.V.",
+                    "Gran poder de penetración",
+                    "Hidrófugo, regulador de la humedad"
+                ],
+                "registro":"Nº Reg. Ministerio Sanidad y Consumo 07-80-04480",
+                "ficha_tecnica":"assets/pdf/solar_incoloro.docx.pdf.zip",
+                "accion_especial":"Protector especialmente diseñado para maderas que estén muy expuestas a la luz solar."
+            },
+            "ficha":{
+                "tipo":[
+                    "Lasur para la madera a base de resinas acrílicas en base agua de partícula muy fina.",
+                    "Combinación de estabilizadores de la luz solar a base de filtros y absorbentes de radiaciones U.V."
+                ],
+                "caracteristicas":[
+                    "Acabado satinado a poro abierto.",
+                    "Protección prolongada de la madera tratada.",
+                    "Hidrófugo regulador de la humedad y transpirable.",
+                    "Protección contra la radiación solar U.V.",
+                    "Impregnación penetrante.",
+                    "Gran elasticidad.",
+                    "Secado rápido.",
+                    "Incoloro."
+                ],
+                "aplicaciones":[
+                    "Como lasur para la madera con acabado transparente.",
+                    "Como protector contra los rayos U.V. del sol y efecto biocida contra hongos e insectos xilófagos.",
+                    "Indicado para toda clase de madera, tanto para interior como para exterior."
+                ],
+                "caracteristicas_tecnicas":[
+                    {
+                        "Color":"Incoloro."
+                    },
+                    {
+                        "Olor":"Inoloro"
+                    },
+                    {
+                        "Densidad":"(20ºC): 1’05-1’08 Kg/L."
+                    },
+                    {
+                        "Viscosidad":"(20ºC): 12-15 Copa Din 4."
+                    },
+                    {
+                        "Brillo":"Satinado"
+                    },
+                    {
+                        "Temp. Aplicación":"No aplicar nunca por debajo de 5º C."
+                    },
+                    {
+                        "Punto de inflamación":"No inflamable"
+                    },
+                    {
+                        "Solubilidad al agua":"Completamente saluble"
+                    },
+                    {
+                        "Tiempo de secado":"Al tacto 2h. Para aplicar una segunda mano dejar secar de 6 a 12h."
+                    }
+                ]
+            }
+        },
+        {
+            "id":4,
+            "nombre":"Matacarcoma",
+            "slug":"matacarcoma",
+            "img":"assets/img/matacarcoma.png",
+            "description":{
+                "features":[
+                    "Producto especialmente diseñado para acabar con todo tipo de insectos xilófagos.",
+                    "Al disolvente",
+                    "Contra Térmitas, carcoma, polillas, syrex"
+                ],
+                "registro":"Nº Reg. Ministerio Sanidad y Consumo",
+                "ficha_tecnica":"assets/pdf/matacarcoma.pdf.zip",
+                "accion_especial":"Tanto para uso preventivo como curativo."
+            },
+            "ficha":{
+                "tipo":[
+                    "Insecticida líquido de base disolvente que tiene función preventiva y curativa contra el ataque de los insectos xilófagos: termitas, carcoma fina, carcoma grande, polillas, carcoma del parquet, sirex, etc."
+                ],
+                "caracteristicas":[
+                    "No ataca a los materiales ni cristales.",
+                    "No provoca oxidación de ningún tipo.",
+                    "Una vez seca la madera puede estar en contacto con plásticos y materiales bituminosos."
+                ],
+                "aplicaciones":[
+                    "Puede utilizarse tanto como preventivo como curativo contra el ataque de insectos xilófagos para todo tipo de maderas contrachapadas, viejas o nuevas, para elementos estructurales, constructivos y decorativos tales como: vigas, pérgolas, cercas, vallas, marcos para puertas y ventanas, muebles de interior, casas de madera, etc."
+                ],
+                "caracteristicas_tecnicas":[
+                    {
+                        "Color":"Incoloro."
+                    },
+                    {
+                        "Olor":"Inoloro"
+                    },
+                    {
+                        "Densidad":"(20ºC): 1’05-1’08 Kg/L."
+                    },
+                    {
+                        "Viscosidad":"(20ºC): 12-15 Copa Din 4."
+                    },
+                    {
+                        "Brillo":"Satinado"
+                    },
+                    {
+                        "Temp. Aplicación":"No aplicar nunca por debajo de 5º C."
+                    },
+                    {
+                        "Punto de inflamación":"No inflamable"
+                    },
+                    {
+                        "Solubilidad al agua":"Completamente saluble"
+                    },
+                    {
+                        "Tiempo de secado":"Al tacto 2h. Para aplicar una segunda mano dejar secar de 6 a 12h."
+                    }
+                ]
+            }
+        },
+        {
+            "id":5,
+            "nombre":"Aceite de Teka",
+            "slug":"aceite-teka",
+            "img":"assets/img/aceite-teka.png",
+            "description":{
+                "features":[
+                    "Protege, repara, nutre y enriquece",
+                    "Aceites naturales",
+                    "Protección prolongada"
+                ],
+                "registro":"Nº Reg. Ministerio Sanidad y Consumo",
+                "ficha_tecnica":"assets/pdf/aceite_teka.pdf.zip",
+                "accion_especial":"Mantenimiento y renovación de maderas de muebles de jardín."
+            },
+            "ficha":{
+                "tipo":[
+                    "Protector renovador a base de aceites naturales y resinas alquídicas."
+                ],
+                "caracteristicas":[
+                    "Gran poder de penetración que nutre y enriquece la madera de teca, y otras maderas tropicales, reponiéndolas de la pérdida de los aceites propios de la madera y devolviéndoles su aspecto natural."
+                ],
+                "aplicaciones":[
+                    "Especialmente indicado para el mantenimiento y renovación de maderas de los muebles de jardín, especialmente los de teca y maderas exóticas y tropicales sin barnizar tanto en interiores como en exteriores."
+                ],
+                "caracteristicas_tecnicas":[
+                    {
+                        "Color":"Incoloro."
+                    },
+                    {
+                        "Olor":"Inoloro"
+                    },
+                    {
+                        "Densidad":"(20ºC): 1’05-1’08 Kg/L."
+                    },
+                    {
+                        "Viscosidad":"(20ºC): 12-15 Copa Din 4."
+                    },
+                    {
+                        "Brillo":"Satinado"
+                    },
+                    {
+                        "Temp. Aplicación":"No aplicar nunca por debajo de 5º C."
+                    },
+                    {
+                        "Punto de inflamación":"No inflamable"
+                    },
+                    {
+                        "Solubilidad al agua":"Completamente saluble"
+                    },
+                    {
+                        "Tiempo de secado":"Al tacto 2h. Para aplicar una segunda mano dejar secar de 6 a 12h."
+                    }
+                ]
+            }
+        },
+        {
+            "id":6,
+            "nombre":"Sol Máquina Industrial",
+            "slug":"sol-maquina",
+            "img":"assets/img/sol-maquina.png",
+            "description":{
+                "features":[
+                    "Para aplicación en máquina aerográfica",
+                    "Amplia gama de colores",
+                    "Secado rápido"
+                ],
+                "registro":"Nº Reg. Ministerio Sanidad y Consumo",
+                "ficha_tecnica":"assets/pdf/sol_maquina.docx.pdf.zip",
+                "accion_especial":"Posibilidad de personalización de colores."
+            },
+            "ficha":{
+                "tipo":[
+                    "Combinación de estabilizadores de la luz solar a base de absorbentes de radiaciones U.V. especialmente formulado para su aplicación en máquina aerográfica automática."
+                ],
+                "caracteristicas":[
+                    "Acabado satinado a poro abierto.",
+                    "Protección prolongada de la madera tratada.",
+                    "Hidrófugo regulador de la humedad y transpirable.",
+                    "Evita los cambios dimensionales de la madera.",
+                    "Secado rápido.",
+                    "Impregnación penetrante."
+                ],
+                "aplicaciones":[
+                    "Como lasur para la madera con acabado en varios colores",
+                    "Como protector contra los rayos U.V. del sol y efecto biocida contra hongos e insectos xilófagos",
+                    "Indicado para toda clase de madera, tanto para interior como para exterior"
+                ],
+                "caracteristicas_tecnicas":[
+                    {
+                        "Color":"Incoloro."
+                    },
+                    {
+                        "Olor":"Inoloro"
+                    },
+                    {
+                        "Densidad":"(20ºC): 1’05-1’08 Kg/L."
+                    },
+                    {
+                        "Viscosidad":"(20ºC): 12-15 Copa Din 4."
+                    },
+                    {
+                        "Brillo":"Satinado"
+                    },
+                    {
+                        "Temp. Aplicación":"No aplicar nunca por debajo de 5º C."
+                    },
+                    {
+                        "Punto de inflamación":"No inflamable"
+                    },
+                    {
+                        "Solubilidad al agua":"Completamente saluble"
+                    },
+                    {
+                        "Tiempo de secado":"Al tacto 2h. Para aplicar una segunda mano dejar secar de 6 a 12h."
+                    }
+                ]
+            }
+        }
+    ]
+}

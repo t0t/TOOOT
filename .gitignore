@@ -1,0 +1,15 @@
+# Apple crap
+.DS_Store
+# Sass cache folder
+.sass-cache
+# css map
+style.css.map
+node_modules
+dist
+dist/js/*.js.map
+.publish
+config.codekit
+.codekit-cache/**
+.DS_Store
+*/.DS_Store
+css/main.css*

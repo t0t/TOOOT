@@ -49,7 +49,7 @@ var miEneatipo = {
   ]
 }
 ```
-**Nota:** La integración es una de las características de este proyecto. Todo tiene que ver con todo. Lo profesional, lo personal, lo emocional, el mensaje, el medio... Todo! Por ejemplo, mi programa mental es representado por código real (javascript, css...). Esto es así por la naturaleza fractal de la realidad. Todo encaja. Estás leyendo este texto en Github que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus diversas ramas.
+**Nota:** La integración es una de las características de este proyecto. Todo tiene que ver con todo. Lo profesional, lo personal, lo emocional, el mensaje, el medio... Todo! Por ejemplo, mi programa mental es representado por código real (javascript, css...). Esto es así por la naturaleza fractal de la realidad. Todo encaja. Estás leyendo este texto en Github que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus diversas ramas. :scream:
 
 ## 2. Expresión
 El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo, la capacidad de verbalizar y traer al mundo lo mejor de mí mismo.
@@ -86,3 +86,9 @@ Ejemplos de "nuevas" o quizá no tan nuevas formas de entender y vivir el arte:
 - Matemáticas vorticiales
 - Teoría del todo de Valdeande Mágico
 - Marko Rodin
+
+[Sergio Forés](http://t0t.github.io/sergiofores/)
+[Github](https://github.com/t0t/).
+[Linkedin](https://www.linkedin.com/in/sergiofores/).
+[Twitter](https://twitter.com/t0tinspire/) @t0tinspire
+http://t0t.github.io/tot
