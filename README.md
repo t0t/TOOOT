@@ -18,7 +18,7 @@ El primer punto es conocerse a uno mismo. Yo estoy empezando a hacerlo ahora, a 
 
 ![Eneagrama](./grafico_eneagrama.png)
 
-Esta herramienta se llama Eneagrama y su magia consiste en hacer observable al que observa mientras es observado. Te das cuenta de que el ojo que siempre ha estado viendo la realidad y la mente que siempre ha estado procesandola tienen una estructura, una gramática, unas funciones, unas variables, unos datos. Es increíble darte cuenta de que puedes acceder ahí, a ese código fuente.
+Esta herramienta se llama Eneagrama y su magia consiste en **hacer observable al que observa mientras es observado**. Te das cuenta de que el ojo que siempre ha estado viendo la realidad y la mente que siempre ha estado procesandola tienen una estructura, una gramática, unas funciones, unas variables, unos datos. Es increíble darte cuenta de que puedes acceder ahí, a ese código fuente.
 
 ###### Ejemplo del aspecto que tendría mi Programa:
 
@@ -49,7 +49,7 @@ var miEneatipo = {
   ]
 }
 ```
-**Nota:** La integración es una de las características de este proyecto. Todo está relacionado. Lo profesional, lo personal, lo emocional, el mensaje, el medio... Todo! Por ejemplo, mi programa mental es representado por código real (javascript, css...). Esto es así por la naturaleza fractal de la realidad. Todo encaja. Estás leyendo este texto en Github que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus diversas ramas.
+**Nota:** La integración es una de las características de este proyecto. Todo tiene que ver con todo. Lo profesional, lo personal, lo emocional, el mensaje, el medio... Todo! Por ejemplo, mi programa mental es representado por código real (javascript, css...). Esto es así por la naturaleza fractal de la realidad. Todo encaja. Estás leyendo este texto en Github que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus diversas ramas.
 
 ## 2. Expresión
 El Eneagrama es como un libro de instrucciones de tu personalidad. Mediante esta herramienta el sujeto hace conscientes aquellos bloqueos que le impiden sacar todo su potencial. En mi caso, por ejemplo, la capacidad de verbalizar y traer al mundo lo mejor de mí mismo.
