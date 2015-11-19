@@ -13,12 +13,6 @@ var   gulp            =     require('gulp'),
       data            =     require('gulp-data'),
       jade            =     require('gulp-jade'),
       sass            =     require('gulp-sass')
-      // minifyHTML   =     require('gulp-minify-html'),
-      // csso         =     require('gulp-csso'),
-      // swig         =     require('gulp-swig'),
-      // fm           =     require('front-matter');
-      // path         =     require('path'),
-      // MongoClient  =     require('mongodb').MongoClient;
 /*
   Compress Js
 */
@@ -91,13 +85,13 @@ gulp.task('assets', [ 'fonts', 'pdf', 'img' ], function () {
 /*
   compile Jade
 */
-gulp.task('jade', function () {
-  return gulp.src([ './views/*.jade', '!./views/_*.jade' ])
+gulp.task('jade', function() {
+  gulp.src([ './views/*.jade', '!./views/_*.jade' ])
     .pipe(data(function () {
       return require('./views/data/data.json');
     }))
     .pipe(jade({pretty:true}))
-    .pipe(gulp.dest('./dist'));
+    .pipe(gulp.dest('./dist/'));
 });
 /*
   Compile stylus and jade

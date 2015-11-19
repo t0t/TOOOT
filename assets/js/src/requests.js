@@ -1,6 +1,4 @@
 // 
-// 
-// 
 // !function() { // https://teamtreehouse.com/library/the-module-pattern-in-javascript-2
 // 
 // /****** json.js ******/

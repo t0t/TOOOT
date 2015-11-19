@@ -1,6 +1,6 @@
 mixin navmenu(menu_items)
-	nav.nav-main
-		ul.nav-main__menu
+	nav
+		ul.mainMenu
 			each item in menu_items
 				if item.title == current
 					li( class=[ 'btn', 'btn--nav', 'active' ])
@@ -14,8 +14,5 @@ mixin navmenu(menu_items)
 
 +navmenu([
 	{ 'title': 'Home',  'link': 'index.html'},
-	{ 'title': 'Productos',  'link': 'productos.html'},
-	{ 'title': 'Empresa',  'link': 'empresa.html'},
-	{ 'title': 'Aplicaciones',  'link': 'aplicaciones.html'},
-	{ 'title': 'Contacto',  'link': 'contacto.html' }
+	{ 'title': 'xxx',  'link': '#'}
 ])

@@ -1,27 +1,28 @@
 {
-    "site": [
-      {
+  "site": [
+    {
+      "title": "TOT",
+      "description": "Este proyecto no pretende ser un tratado filosófico (aunque pueda parecerlo), sino la aplicación práctica de mi propio proceso existencial",
+      "author": "Sergio Forés",
+      "url": "t0t.github.io/tot"
+    }
+  ],
+  "widgets": [
+    {
+      "info": {
+        "title": "xxx:",
+        "parrafo": "xxx"
+      },
+      "home": {
         "title": "xxx",
-        "description": "xxx",
-        "author": "Sergio Forés"
+        "parrafo": "xxx"
+      },
+      "outlink": {
+        "text": "xxx",
+        "img": "./assets/img/xxx.png",
+        "link": "http://xxx.com"
       }
-    ],
-    "widgets": [
-      {
-        "info": {
-          "title": "xxx:",
-          "parrafo": "xxx"
-        },
-        "home": {
-          "title": "xxx",
-          "parrafo": "xxx"
-        },
-        "outlink": {
-          "text": "xxx",
-          "img": "./assets/img/xxx.png",
-          "link": "http://xxx.com"
-        }
-      }
+    }
     ],
     "eneagrama": [
       "Dejar que la vida sea maestra, mejor que depender de los propios esquemas mentales de referencia.",
