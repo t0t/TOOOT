@@ -1,6 +1,6 @@
 ![logo](./logo.png)
 
-#### Este proyecto no pretende ser un tratado filosófico (aunque pueda parecerlo), sino la aplicación práctica de mi propio proceso existencial
+#### Descubrimiento y aplicación de mi función en el mundo
 
 **Por qué me atrae la palabra TOT:**
 - "To do" en inglés significa "algo para hacer".
