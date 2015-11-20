@@ -1,40 +1,68 @@
 // Settings
+$color_base: SaddleBrown;
 $color_black: black;
-$color_alt: lightpink;
+$color_gray: lighten($color_black, 80);
+$color_alt: MediumAquaMarine;
+$base_spacing: 30px;
+
+// Layout
+.siteHeader {
+  background-color: $color_gray;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: $base_spacing;
+}
+.siteTitle {
+  font-size: 150%;
+}
+.siteMain {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 $base_spacing;
+}
+.siteFooter {
+  background-color: $color_gray;
+  padding: $base_spacing;
+}
 // Nav
-.mainMenu {
+.siteNav {}
+.siteMenu {
   display: none;
   &.active {
     display: block;
   }
 }
-// Components/Brand
-.brand {
-  background-color: green;
+// Components / Brand
+.siteBrand {
   display: block;
   width: 260px;
   height: 130px;
-  margin: 0;
-  &Logo {
-    fill: none;
-    stroke-width: 10;
-    stroke: $color_alt;
-    stroke-linecap: round;
-    stroke-dasharray: 1, 100;
-    animation-name: anim_logo;
-    animation-duration: 3s;
-    animation-timing-function: ease-in;
-    animation-iteration-count: 1;
-    animation-fill-mode: forwards; //backwards
-    // animation-direction: reverse;
-    // fill-rule: nonzero; //evenodd
-  }
 }
+.siteLogo {
+  fill: none;
+  stroke-width: 10;
+  stroke: $color_black;
+  stroke-linecap: round;
+  // stroke-dasharray: 0, 300;
+  stroke-dasharray: 0, 300;
+  animation-name: anim_logo;
+  animation-duration: 7s;
+  animation-timing-function: ease-out;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards; //backwards
+  // animation-direction: reverse;
+  // fill-rule: nonzero; //evenodd
+  // transition-property: all;
+  // transition-duration: .3s;
+}
+
 
 // Animations
 @keyframes anim_logo {
   100% {
-    stroke-dasharray: 1, 0;
+    stroke-dasharray: 300, 300;
   }
 }
 
@@ -42,8 +70,16 @@ body {
   font-family: Open Sans;
 }
 
+a {
+  text-decoration: none;
+  color: $color_base;
+  &:hover {
+    color: $color_alt;
+  }
+}
+
 blockquote {
-  color: lighten($color_black, 60);
+  color: $color_alt;
   border-left: 22px solid $color_alt;
   padding-left: 10px;
 }

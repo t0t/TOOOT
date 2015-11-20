@@ -9,19 +9,18 @@ html( lang=Language )
 		meta( name='description', content=MetaDesc )
 		meta( name='author', content=Author )
 		if GoogleFonts
-			link(rel="stylesheet", href="//fonts.googleapis.com/css?family=Lato", type='text/css')
+			link( rel="stylesheet", href="//fonts.googleapis.com/css?family=Lato", type='text/css' )
 		link( rel="stylesheet", href="./css/main.css", type="text/css" )
 	body
-		header
-			a(href="index.html" class="brand")
-				svg(class="brandLogo")
-					use(xlink:href="assets/img/icons.svg#logo")
-			h1 #{ title }
-			h2 #{ sitedescription }
+		header.siteHeader
+			a( href="index.html", class="siteBrand" )
+				svg( class="siteLogo" )
+					use( xlink:href="assets/img/icons.svg#logo" )
+			h1.siteTitle #{ title }, #{ sitedescription }
 			include partials/_nav-main
-		main
+		main.siteMain
 			block main
-		footer
+		footer.siteFooter
 			ul
 				li: a( href="http://t0t.github.io/sergiofores/" ) Sergio Forés
 				li: a( href="https://github.com/t0t/" ) Github

@@ -1,6 +1,6 @@
 mixin navmenu(menu_items)
-	nav
-		ul.mainMenu
+	nav.siteNav
+		ul.siteMenu
 			each item in menu_items
 				if item.title == current
 					li( class=[ 'btn', 'btn--nav', 'active' ])

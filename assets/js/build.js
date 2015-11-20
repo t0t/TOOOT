@@ -38,14 +38,14 @@
 function onWindowLoaded() {
   // Main Nav
   var menuBtn = document.getElementById('hamenu');
-  var menu = document.getElementsByClassName('mainMenu')[0];
+  var menu = document.getElementsByClassName('siteMenu')[0];
   function menuAction() {
     if (menuBtn.value == 'X') {
       menuBtn.value = 'Menu';
-      menu.className = 'mainMenu';
+      menu.className = 'siteMenu';
     } else {
       menuBtn.value = 'X';
-      menu.className = 'mainMenu active';
+      menu.className = 'siteMenu active';
     }
   };
   menuBtn.addEventListener('click', menuAction);
