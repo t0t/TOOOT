@@ -9,28 +9,36 @@ Author URI: https://sergiofores.net/
   .mainMenu.active {
     display: block; }
 
-.brandLogo {
-  fill: none;
-  stroke-width: 2;
-  stroke: lightpink;
-  stroke-linecap: round;
-  stroke-dasharray: 53,100;
-  -webkit-animation-name: anim_logo;
-  animation-name: anim_logo;
-  -webkit-animation-duration: 5s;
-  animation-duration: 5s;
-  -webkit-animation-timing-function: ease-in-out;
-  animation-timing-function: ease-in-out;
-  -webkit-animation-iteration-count: 1;
-  animation-iteration-count: 1; }
+.brand {
+  background-color: green;
+  display: block;
+  width: 260px;
+  height: 130px;
+  margin: 0; }
+  .brandLogo {
+    fill: none;
+    stroke-width: 10;
+    stroke: lightpink;
+    stroke-linecap: round;
+    stroke-dasharray: 1, 100;
+    -webkit-animation-name: anim_logo;
+    animation-name: anim_logo;
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s;
+    -webkit-animation-timing-function: ease-in;
+    animation-timing-function: ease-in;
+    -webkit-animation-iteration-count: 1;
+    animation-iteration-count: 1;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards; }
 
 @-webkit-keyframes anim_logo {
   100% {
-    stroke-dasharray: 0,0; } }
+    stroke-dasharray: 1, 0; } }
 
 @keyframes anim_logo {
   100% {
-    stroke-dasharray: 0,0; } }
+    stroke-dasharray: 1, 0; } }
 
 body {
   font-family: Open Sans; }
