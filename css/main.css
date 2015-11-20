@@ -11,10 +11,26 @@ Author URI: https://sergiofores.net/
 
 .brandLogo {
   fill: none;
-  stroke-width: .5;
+  stroke-width: 2;
   stroke: lightpink;
   stroke-linecap: round;
-  stroke-dasharray: 2,1; }
+  stroke-dasharray: 53,100;
+  -webkit-animation-name: anim_logo;
+  animation-name: anim_logo;
+  -webkit-animation-duration: 5s;
+  animation-duration: 5s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1; }
+
+@-webkit-keyframes anim_logo {
+  100% {
+    stroke-dasharray: 0,0; } }
+
+@keyframes anim_logo {
+  100% {
+    stroke-dasharray: 0,0; } }
 
 body {
   font-family: Open Sans; }
