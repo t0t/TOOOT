@@ -1,4 +1,4 @@
-# T:full_moon:T
+[logo](./logo.png)
 #### Este proyecto no pretende ser un tratado filosófico (aunque pueda parecerlo), sino la aplicación práctica de mi propio proceso existencial
 
 **Por qué me atrae la palabra TOT:**
