@@ -9,6 +9,13 @@ Author URI: https://sergiofores.net/
   .mainMenu.active {
     display: block; }
 
+.brandLogo {
+  fill: none;
+  stroke-width: .5;
+  stroke: lightpink;
+  stroke-linecap: round;
+  stroke-dasharray: 2,1; }
+
 body {
   font-family: Open Sans; }
 
