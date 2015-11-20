@@ -1,6 +1,6 @@
+doctype html
 block config
 	include _config
-doctype html
 html( lang=Language )
 	head
 		title=title
@@ -13,6 +13,9 @@ html( lang=Language )
 		link( rel="stylesheet", href="./css/main.css", type="text/css" )
 	body
 		header
+			a(href="index.html" class="brand")
+				svg(class="brandLogo")
+					use(xlink:href="assets/img/icons.svg#logo")
 			h1 #{ title }
 			h2 #{ sitedescription }
 			include partials/_nav-main

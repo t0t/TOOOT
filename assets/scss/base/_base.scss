@@ -8,6 +8,18 @@ $color_alt: lightpink;
     display: block;
   }
 }
+// Components/Brand
+.brand {
+  // background-color: green;
+  &Logo {
+    // fill-rule: nonzero; //evenodd
+    fill: none;
+    stroke-width: .5;
+    stroke: $color_alt;
+    stroke-linecap: round;
+    stroke-dasharray: 2,1;
+  }
+}
 
 body {
   font-family: Open Sans;
