@@ -11,13 +11,13 @@ html( lang=Language )
 		if GoogleFonts
 			link( rel="stylesheet", href="//fonts.googleapis.com/css?family=Lato", type='text/css' )
 		link( rel="stylesheet", href="./css/main.css", type="text/css" )
-	body
+	body.site
+		include partials/_nav-main
 		header.siteHeader
 			a( href="index.html", class="siteBrand" )
 				svg( class="siteLogo" )
 					use( xlink:href="assets/img/icons.svg#logo" )
 			h1.siteTitle #{ title }, #{ sitedescription }
-			include partials/_nav-main
 		main.siteMain
 			block main
 		footer.siteFooter

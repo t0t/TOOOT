@@ -3,14 +3,14 @@ mixin navmenu(menu_items)
 		ul.siteMenu
 			each item in menu_items
 				if item.title == current
-					li( class=[ 'btn', 'btn--nav', 'active' ])
+					li( class=[ 'btn', 'btnNav', 'active' ])
 						a( href = item.link )
 							=item.title
 				else
-					li( class=[ 'btn', 'btn--nav' ])
+					li( class=[ 'btn', 'btnNav' ])
 						a( href=item.link )
 							=item.title
-		input(type="button", id="hamenu", class="btn btn--hamenu", value="Menu")
+		input(type="button", id="hamenu", class="btn btnToggle", value="Menu")
 
 +navmenu([
 	{ 'title': 'Home',  'link': 'index.html'},
