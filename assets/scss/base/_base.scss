@@ -12,12 +12,22 @@ $color_alt: lightpink;
 .brand {
   // background-color: green;
   &Logo {
-    // fill-rule: nonzero; //evenodd
     fill: none;
-    stroke-width: .5;
+    stroke-width: 2;
     stroke: $color_alt;
     stroke-linecap: round;
-    stroke-dasharray: 2,1;
+    stroke-dasharray: 53,100;
+    animation-name: anim_logo;
+    animation-duration: 5s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: 1;
+    // fill-rule: nonzero; //evenodd
+  }
+}
+
+@keyframes anim_logo {
+  100% {
+    stroke-dasharray: 0,0;
   }
 }
 
