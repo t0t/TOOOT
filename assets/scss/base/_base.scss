@@ -10,24 +10,31 @@ $color_alt: lightpink;
 }
 // Components/Brand
 .brand {
-  // background-color: green;
+  background-color: green;
+  display: block;
+  width: 260px;
+  height: 130px;
+  margin: 0;
   &Logo {
     fill: none;
-    stroke-width: 2;
+    stroke-width: 10;
     stroke: $color_alt;
     stroke-linecap: round;
-    stroke-dasharray: 53,100;
+    stroke-dasharray: 1, 100;
     animation-name: anim_logo;
-    animation-duration: 5s;
-    animation-timing-function: ease-in-out;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
     animation-iteration-count: 1;
+    animation-fill-mode: forwards; //backwards
+    // animation-direction: reverse;
     // fill-rule: nonzero; //evenodd
   }
 }
 
+// Animations
 @keyframes anim_logo {
   100% {
-    stroke-dasharray: 0,0;
+    stroke-dasharray: 1, 0;
   }
 }
 
