@@ -10,6 +10,11 @@ Author URI: https://sergiofores.net/
     display: block; }
 
 body {
-  font-family: Lato; }
+  font-family: Open Sans; }
+
+blockquote {
+  color: #999999;
+  border-left: 22px solid lightpink;
+  padding-left: 10px; }
 
 /*# sourceMappingURL=main.css.map */
