@@ -1,3 +1,6 @@
+// Settings
+$color_black: black;
+$color_alt: lightpink;
 // Nav
 .mainMenu {
   display: none;
@@ -7,5 +10,11 @@
 }
 
 body {
-  font-family: Lato;
+  font-family: Open Sans;
+}
+
+blockquote {
+  color: lighten($color_black, 60);
+  border-left: 22px solid $color_alt;
+  padding-left: 10px;
 }
