@@ -115,8 +115,37 @@ blockquote {
   }
   &Menu {
     display: none;
+    margin: 0;
+    padding: 0;
+    list-style: none;
     &.active {
       display: block;
+    }
+  }
+}
+
+// Buttons
+.btn {
+  a {
+    display: block;
+    padding: $base_spacing/2;
+  }
+  &Nav {
+    text-transform: uppercase;
+    background-color: $color_alt;
+    a {
+      padding: $base_spacing/2;
+      color: $color_black;
+      &:hover {
+        color: $color_white;
+      }
+    }
+  }
+  &Toggle {
+    padding: $base_spacing/2;
+    &:hover {
+      background-color: $color_base;
+      color: $color_white;
     }
   }
 }
@@ -137,17 +166,6 @@ blockquote {
   animation-timing-function: ease-out;
   animation-iteration-count: 1;
   animation-fill-mode: forwards; //backwards
-}
-// Buttons
-.btn {
-  padding: $base_spacing/2;
-  &Nav {}
-  &Toggle {
-    &:hover {
-      background-color: $color_base;
-      color: $color_white;
-    }
-  }
 }
 
 // Animations
