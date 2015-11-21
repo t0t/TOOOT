@@ -4,104 +4,6 @@ Theme URI: t0twpapi/
 Author: Sergio
 Author URI: https://sergiofores.net/
 */
-.siteHeader {
-  background-color: #cccccc;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: space-around;
-  -ms-flex-pack: distribute;
-  justify-content: space-around;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  padding: 15px; }
-
-.siteTitle {
-  font-size: 100%;
-  -webkit-flex: 0 1 150px;
-  -ms-flex: 0 1 150px;
-  flex: 0 1 150px; }
-
-.siteMain {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 15px;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap; }
-
-.siteFooter {
-  background-color: #cccccc;
-  padding: 15px; }
-
-.siteSection .gist {
-  max-width: 345px; }
-
-.siteNav {
-  position: fixed;
-  top: 15px;
-  right: 15px; }
-
-.siteMenu {
-  display: none; }
-  .siteMenu.active {
-    display: block; }
-
-.siteLogo {
-  width: 100px;
-  height: 50px;
-  fill: none;
-  stroke-width: 10;
-  stroke: black;
-  stroke-linecap: round;
-  stroke-dasharray: 0, 300;
-  -webkit-animation-name: anim_logo;
-  animation-name: anim_logo;
-  -webkit-animation-duration: 7s;
-  animation-duration: 7s;
-  -webkit-animation-timing-function: ease-out;
-  animation-timing-function: ease-out;
-  -webkit-animation-iteration-count: 1;
-  animation-iteration-count: 1;
-  -webkit-animation-fill-mode: forwards;
-  animation-fill-mode: forwards; }
-
-.btn {
-  padding: 15px; }
-  .btnToggle:hover {
-    background-color: SaddleBrown;
-    color: white; }
-
-@-webkit-keyframes anim_logo {
-  100% {
-    stroke-dasharray: 300, 300; } }
-
-@keyframes anim_logo {
-  100% {
-    stroke-dasharray: 300, 300; } }
-
-body {
-  font-family: Open Sans;
-  font-size: 75%; }
-
-a {
-  text-decoration: none;
-  color: SaddleBrown; }
-  a:hover {
-    color: MediumAquaMarine; }
-
-blockquote {
-  color: MediumAquaMarine;
-  border-left: 22px solid MediumAquaMarine;
-  padding-left: 10px; }
-
 body {
   margin: 0; }
 
@@ -112,21 +14,6 @@ h2 {
 
 * {
   box-sizing: border-box; }
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-  display: block; }
 
 /**
  * Prevent modern browsers from displaying `audio` without controls.
@@ -218,13 +105,6 @@ pre {
 /**
  * Address odd `em`-unit font size rendering in all browsers.
  */
-code,
-kbd,
-pre,
-samp {
-  font-family: monospace, monospace;
-  font-size: 1em; }
-
 /* Forms
    ========================================================================== */
 /**
@@ -389,5 +269,156 @@ th {
 
 input {
   border: none; }
+
+.red, .circle {
+  fill: red; }
+
+.white, .square {
+  fill: black; }
+
+.blue, .hexagon, .dodecaedro {
+  fill: blue; }
+
+.yellow, .triangle {
+  fill: yellow; }
+
+.green, .ellipse {
+  fill: green; }
+
+.violet, .pentagon, .octagon {
+  fill: #9632af; }
+
+.lines {
+  stroke-width: 1;
+  stroke: black;
+  fill: none; }
+
+.path {
+  stroke-width: 4;
+  stroke: black;
+  fill: none; }
+
+body {
+  font-family: Open Sans;
+  font-size: 81%; }
+
+img {
+  max-width: 100%; }
+
+a {
+  text-decoration: none;
+  color: SaddleBrown; }
+  a:hover {
+    color: mediumaquamarine; }
+
+blockquote {
+  color: mediumaquamarine;
+  border-left: 22px solid mediumaquamarine;
+  padding-left: 10px; }
+
+figure {
+  display: block;
+  margin-bottom: 15px; }
+  figure figcaption {
+    color: mediumaquamarine; }
+
+.siteHeader {
+  background-color: #cccccc;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 15px;
+  margin-bottom: 15px; }
+
+.siteTitle {
+  font-size: 80%;
+  -webkit-flex: 0 0 150px;
+  -ms-flex: 0 0 150px;
+  flex: 0 0 150px;
+  max-width: 100px; }
+
+.siteMain {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 15px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
+
+.siteFooter {
+  background-color: #cccccc;
+  padding: 15px; }
+
+.siteNav {
+  position: fixed;
+  top: 15px;
+  right: 15px; }
+
+.siteMenu {
+  display: none;
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  .siteMenu.active {
+    display: block; }
+
+.btn a {
+  display: block;
+  padding: 15px; }
+
+.btnNav {
+  text-transform: uppercase;
+  background-color: mediumaquamarine; }
+  .btnNav a {
+    padding: 15px;
+    color: black; }
+    .btnNav a:hover {
+      color: white;
+      background-color: #53c79f; }
+
+.btnToggle {
+  padding: 15px; }
+  .btnToggle:hover {
+    background-color: black;
+    color: white; }
+
+.siteLogo {
+  width: 100px;
+  height: 50px;
+  fill: none;
+  stroke-width: 10;
+  stroke: black;
+  stroke-linecap: round;
+  stroke-dasharray: 0, 300;
+  -webkit-animation-name: anim_logo;
+  animation-name: anim_logo;
+  -webkit-animation-duration: 7s;
+  animation-duration: 7s;
+  -webkit-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards; }
+
+@-webkit-keyframes anim_logo {
+  100% {
+    stroke-dasharray: 300, 300; } }
+
+@keyframes anim_logo {
+  100% {
+    stroke-dasharray: 300, 300; } }
 
 /*# sourceMappingURL=main.css.map */
