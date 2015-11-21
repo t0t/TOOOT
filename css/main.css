@@ -274,7 +274,7 @@ input {
   fill: red; }
 
 .white, .square {
-  fill: black; }
+  fill: #323232; }
 
 .blue, .hexagon, .dodecaedro {
   fill: blue; }
@@ -290,26 +290,26 @@ input {
 
 .lines {
   stroke-width: 1;
-  stroke: black;
+  stroke: #323232;
   fill: none; }
 
 .path {
   stroke-width: 4;
-  stroke: black;
+  stroke: #323232;
   fill: none; }
 
 body {
   font-family: Open Sans;
-  font-size: 81%; }
+  font-size: 81%;
+  line-height: 1.7;
+  letter-spacing: 1px; }
 
 img {
   max-width: 100%; }
 
 a {
-  text-decoration: none;
-  color: SaddleBrown; }
-  a:hover {
-    color: mediumaquamarine; }
+  color: #323232;
+  text-decoration: none; }
 
 blockquote {
   color: mediumaquamarine;
@@ -327,29 +327,41 @@ figure {
 h2 {
   margin-bottom: 15px; }
 
+*::-moz-selection {
+  color: #323232;
+  background-color: mediumaquamarine; }
+
+*::selection {
+  color: #323232;
+  background-color: mediumaquamarine; }
+
 .siteHeader {
-  background-color: #cccccc;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
+  -webkit-justify-content: initial;
+  -ms-flex-pack: initial;
+  justify-content: initial;
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
   padding: 15px;
-  margin-bottom: 15px; }
+  color: #323232; }
 
 .siteTitle {
-  font-size: 80%;
-  -webkit-flex: 0 0 150px;
-  -ms-flex: 0 0 150px;
-  flex: 0 0 150px;
-  max-width: 100px; }
+  text-indent: -90000px; }
+
+.siteDescription {
+  font-size: 100%;
+  font-weight: inherit;
+  -webkit-flex: 0 0 160px;
+  -ms-flex: 0 0 160px;
+  flex: 0 0 160px;
+  max-width: 160px;
+  margin-bottom: 0; }
 
 .siteMain {
   max-width: 1280px;
@@ -360,16 +372,28 @@ h2 {
   display: flex;
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
-  flex-wrap: wrap; }
+  flex-wrap: wrap;
+  color: #323232; }
+  .siteMain p a {
+    font-weight: bold;
+    border-bottom: 1px solid mediumaquamarine; }
+    .siteMain p a:hover {
+      color: mediumaquamarine;
+      border-bottom: none; }
 
 .siteFooter {
-  background-color: #cccccc;
+  background-color: #eaeaea;
   padding: 15px; }
+  .siteFooter a {
+    color: #b2b2b2; }
+    .siteFooter a:hover {
+      color: #323232; }
 
 .siteNav {
   position: fixed;
   top: 15px;
-  right: 15px; }
+  right: 15px;
+  text-transform: uppercase; }
 
 .siteMenu {
   display: none;
@@ -378,25 +402,28 @@ h2 {
   list-style: none; }
   .siteMenu.active {
     display: block; }
+  .siteMenu.active + input {
+    background-color: #323232;
+    color: white; }
 
 .btn a {
   display: block;
   padding: 15px; }
 
 .btnNav {
-  text-transform: uppercase;
   background-color: mediumaquamarine; }
   .btnNav a {
     padding: 15px;
-    color: black; }
+    color: #323232; }
     .btnNav a:hover {
       color: white;
       background-color: #53c79f; }
 
 .btnToggle {
-  padding: 15px; }
+  padding: 15px;
+  background-color: mediumaquamarine; }
   .btnToggle:hover {
-    background-color: black;
+    background-color: #323232;
     color: white; }
 
 .siteLogo {
@@ -404,7 +431,7 @@ h2 {
   height: 50px;
   fill: none;
   stroke-width: 10;
-  stroke: black;
+  stroke: #323232;
   stroke-linecap: round;
   stroke-dasharray: 0, 300;
   -webkit-animation-name: anim_logo;
