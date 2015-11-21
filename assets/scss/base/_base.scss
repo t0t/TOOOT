@@ -77,11 +77,16 @@ blockquote {
   padding-left: 10px;
 }
 figure {
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   margin-bottom: $base_spacing/2;
   figcaption {
     color: $color_alt;
   }
+}
+h2 {
+ margin-bottom: $base_spacing/2;
 }
 
 // Layout
