@@ -317,10 +317,15 @@ blockquote {
   padding-left: 10px; }
 
 figure {
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   margin-bottom: 15px; }
   figure figcaption {
     color: mediumaquamarine; }
+
+h2 {
+  margin-bottom: 15px; }
 
 .siteHeader {
   background-color: #cccccc;
