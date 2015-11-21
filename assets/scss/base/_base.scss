@@ -1,10 +1,78 @@
 // Settings
+$base_spacing: 30px;
+$spacing: 10;
+// Colors
 $color_base: SaddleBrown;
 $color_white: white;
 $color_black: black;
 $color_gray: lighten($color_black, 80);
-$color_alt: MediumAquaMarine;
-$base_spacing: 30px;
+$color_alt: mediumaquamarine;
+$colors: (
+  red: red,
+  white: $color_black,
+  blue: blue,
+  yellow: yellow,
+  green: green,
+  violet: rgb(150,50,175)
+);
+@each $name, $color in $colors {
+  .#{$name} {
+    fill: $color;
+  }
+}
+
+.hexagon {
+  @extend .blue;
+}
+.triangle {
+  @extend .yellow;
+}
+.square {
+  @extend .white;
+}
+.dodecaedro {
+  @extend .blue;
+}
+.pentagon {
+  @extend .violet;
+}
+.circle {
+  @extend .red;
+}
+.ellipse {
+  @extend .green;
+}
+.lines {
+  stroke-width: 1;
+  stroke: $color_black;
+  fill: none;
+}
+.path {
+  stroke-width: 4;
+  stroke: $color_black;
+  fill: none;
+}
+.octagon {
+  @extend .violet;
+}
+
+// Base
+body {
+  font-family: Open Sans;
+  font-size: 81%;
+}
+a {
+  text-decoration: none;
+  color: $color_base;
+  &:hover {
+    color: $color_alt;
+  }
+}
+blockquote {
+  color: $color_alt;
+  border-left: 22px solid $color_alt;
+  padding-left: 10px;
+}
 
 // Layout
 .siteHeader {
@@ -87,22 +155,4 @@ $base_spacing: 30px;
   100% {
     stroke-dasharray: 300, 300;
   }
-}
-
-// Base
-body {
-  font-family: Open Sans;
-  font-size: 75%;
-}
-a {
-  text-decoration: none;
-  color: $color_base;
-  &:hover {
-    color: $color_alt;
-  }
-}
-blockquote {
-  color: $color_alt;
-  border-left: 22px solid $color_alt;
-  padding-left: 10px;
 }
