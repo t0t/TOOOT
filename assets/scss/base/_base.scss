@@ -4,8 +4,8 @@ $spacing: 10;
 // Colors
 $color_base: SaddleBrown;
 $color_white: white;
-$color_black: black;
-$color_gray: lighten($color_black, 80);
+$color_black: rgb(50,50,50);
+$color_gray: lighten($color_black, 72);
 $color_alt: mediumaquamarine;
 $colors: (
   red: red,
@@ -60,16 +60,15 @@ $colors: (
 body {
   font-family: Open Sans;
   font-size: 81%;
+  line-height: 1.7;
+  letter-spacing: 1px;
 }
 img {
   max-width: 100%;
 }
 a {
+  color: $color_black;
   text-decoration: none;
-  color: $color_base;
-  &:hover {
-    color: $color_alt;
-  }
 }
 blockquote {
   color: $color_alt;
@@ -86,23 +85,37 @@ figure {
   }
 }
 h2 {
- margin-bottom: $base_spacing/2;
+  margin-bottom: $base_spacing/2;
+}
+*::-moz-selection {
+  color: $color_black;
+  background-color: $color_alt;
+}
+*::selection {
+  color: $color_black;
+  background-color: $color_alt;
 }
 
 // Layout
 .siteHeader {
-  background-color: $color_gray;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: initial;
   align-items: center;
-  padding: $base_spacing/2;
-  margin-bottom: $base_spacing/2;
+  padding: $base_spacing / 2;
+  color: $color_black;
+  // margin-bottom: $base_spacing/2;
+  // background-color: $color_gray;
 }
 .siteTitle {
-  font-size: 80%;
-  flex: 0 0 150px;
-  max-width: 100px;
+  text-indent: -90000px;
+}
+.siteDescription {
+  font-size: 100%;
+  font-weight: inherit;
+  flex: 0 0 160px;
+  max-width: 160px;
+  margin-bottom: 0;
 }
 .siteMain {
   max-width: 1280px;
@@ -110,11 +123,27 @@ h2 {
   padding: 0 $base_spacing/2;
   display: flex;
   flex-wrap: wrap;
-  // justify-content: center;
+  color: $color_black;
+  p a {
+    font-weight: bold;
+    // display: inline-block;
+    border-bottom: 1px solid $color_alt;
+    // background-color: yellow;
+    &:hover {
+      color: $color_alt;
+      border-bottom: none;
+    }
+  }
 }
 .siteFooter {
   background-color: $color_gray;
   padding: $base_spacing/2;
+  a {
+    color: lighten($color_black, 50);
+    &:hover {
+      color: $color_black;
+    }
+  }
 }
 .siteSection {
   // flex: 1 50%;
@@ -129,14 +158,17 @@ h2 {
     position: fixed;
     top: $base_spacing/2;
     right: $base_spacing/2;
+    text-transform: uppercase;
   }
   &Menu {
     display: none;
     margin: 0;
     padding: 0;
     list-style: none;
-    &.active {
-      display: block;
+    &.active { display: block; }
+    &.active + input {
+      background-color: $color_black;
+      color: $color_white;
     }
   }
 }
@@ -148,7 +180,6 @@ h2 {
     padding: $base_spacing/2;
   }
   &Nav {
-    text-transform: uppercase;
     background-color: $color_alt;
     a {
       padding: $base_spacing/2;
@@ -161,6 +192,7 @@ h2 {
   }
   &Toggle {
     padding: $base_spacing/2;
+    background-color: $color_alt;
     &:hover {
       background-color: $color_black;
       color: $color_white;
