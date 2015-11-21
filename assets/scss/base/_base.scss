@@ -61,6 +61,9 @@ body {
   font-family: Open Sans;
   font-size: 81%;
 }
+img {
+  max-width: 100%;
+}
 a {
   text-decoration: none;
   color: $color_base;
@@ -73,19 +76,28 @@ blockquote {
   border-left: 22px solid $color_alt;
   padding-left: 10px;
 }
+figure {
+  display: block;
+  margin-bottom: $base_spacing/2;
+  figcaption {
+    color: $color_alt;
+  }
+}
 
 // Layout
 .siteHeader {
   background-color: $color_gray;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   padding: $base_spacing/2;
+  margin-bottom: $base_spacing/2;
 }
 .siteTitle {
-  font-size: 100%;
-  flex: 0 1 150px;
+  font-size: 80%;
+  flex: 0 0 150px;
+  max-width: 100px;
 }
 .siteMain {
   max-width: 1280px;
@@ -101,9 +113,9 @@ blockquote {
 }
 .siteSection {
   // flex: 1 50%;
-  .gist {
-    max-width: 345px;
-  }
+  // .gist {
+  //   max-width: 345px;
+  // }
 }
 
 // Site Nav
@@ -138,13 +150,14 @@ blockquote {
       color: $color_black;
       &:hover {
         color: $color_white;
+        background-color: darken($color_alt, 5);
       }
     }
   }
   &Toggle {
     padding: $base_spacing/2;
     &:hover {
-      background-color: $color_base;
+      background-color: $color_black;
       color: $color_white;
     }
   }
