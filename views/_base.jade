@@ -13,12 +13,13 @@ html( lang=Language )
 		link( rel="stylesheet", href="./css/main.css", type="text/css" )
 	body.site
 		include partials/_nav-main
-		header.siteHeader
-			a( href="index.html", class="siteBrand" )
-				svg( class="siteLogo" )
-					use( xlink:href="assets/img/icons.svg#logo" )
-			h1.siteTitle #{ title }
-			h2.siteDescription #{ sitedesc }
+		block header
+			header.siteHeader
+				a( href="index.html", class="siteBrand" )
+					svg( class="siteLogo" )
+						use( xlink:href="assets/img/icons.svg#logo" )
+				h1.siteTitle #{ title }
+				h2.siteDescription #{ sitedesc }
 		main.siteMain
 			block main
 		footer.siteFooter
