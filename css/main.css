@@ -302,7 +302,7 @@ body {
   font-family: Open Sans;
   font-size: 81%;
   line-height: 1.7;
-  letter-spacing: 1px; }
+  letter-spacing: 0; }
 
 img {
   max-width: 100%; }
@@ -313,8 +313,11 @@ a {
 
 blockquote {
   color: mediumaquamarine;
-  border-left: 22px solid mediumaquamarine;
-  padding-left: 10px; }
+  border-left: 1px solid mediumaquamarine;
+  padding: 30px;
+  font-weight: bold;
+  font-size: 130%;
+  margin-left: 0; }
 
 figure {
   margin-left: auto;
@@ -322,7 +325,7 @@ figure {
   display: block;
   margin-bottom: 15px; }
   figure figcaption {
-    color: mediumaquamarine; }
+    color: #323232; }
 
 h2 {
   margin-bottom: 15px; }
@@ -336,37 +339,44 @@ h2 {
   background-color: mediumaquamarine; }
 
 .siteHeader {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: initial;
-  -ms-flex-pack: initial;
-  justify-content: initial;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  padding: 15px;
-  color: #323232; }
+  background-color: mediumaquamarine;
+  margin-bottom: 15px; }
 
 .siteTitle {
-  text-indent: -90000px; }
+  display: none; }
 
-.siteDescription {
-  font-size: 100%;
-  font-weight: inherit;
-  -webkit-flex: 0 0 200px;
-  -ms-flex: 0 0 200px;
-  flex: 0 0 200px;
-  max-width: 200px;
-  margin-bottom: 0; }
+.siteWell {
+  padding-right: 30px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  transition-duration: 1s;
+  background-color: mediumaquamarine; }
+  @media screen and (min-width: 1000px) {
+    .siteWell {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+      justify-content: space-around;
+      transition-duration: 1s; }
+      .siteWell figure {
+        -webkit-flex: 0 auto;
+        -ms-flex: 0 auto;
+        flex: 0 auto; }
+      .siteWell .siteDescription {
+        -webkit-flex: 0 275px;
+        -ms-flex: 0 275px;
+        flex: 0 275px;
+        font-weight: inherit; } }
 
 .siteMain {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 0 15px;
+  padding: 0 30px;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -429,6 +439,8 @@ h2 {
 .siteLogo {
   width: 100px;
   height: 50px;
+  margin-top: 15px;
+  margin-left: 30px;
   fill: none;
   stroke-width: 10;
   stroke: #323232;
