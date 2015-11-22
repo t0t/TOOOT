@@ -6,7 +6,7 @@ html( lang=Language )
 		title=title
 		meta( charset="utf-8" )
 		meta( name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" )
-		meta( name='description', content=MetaDesc )
+		meta( name='description', content="Existen otros mundos y están en éste" )
 		meta( name='author', content=Author )
 		if GoogleFonts
 			link( rel="stylesheet", href="//fonts.googleapis.com/css?family=Open+Sans", type='text/css' )
@@ -18,7 +18,7 @@ html( lang=Language )
 				svg( class="siteLogo" )
 					use( xlink:href="assets/img/icons.svg#logo" )
 			h1.siteTitle #{ title }
-			h2.siteDescription #{ sitedescription }
+			h2.siteDescription #{ sitedesc }
 		main.siteMain
 			block main
 		footer.siteFooter
