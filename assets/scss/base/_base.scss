@@ -72,8 +72,11 @@ a {
 }
 blockquote {
   color: $color_alt;
-  border-left: 22px solid $color_alt;
-  padding-left: 10px;
+  border-left: 1px solid $color_alt;
+  padding: $base_spacing;
+  font-weight: bold;
+  font-size: 130%;
+  margin-left: 0;
 }
 figure {
   margin-left: auto;
@@ -81,7 +84,7 @@ figure {
   display: block;
   margin-bottom: $base_spacing/2;
   figcaption {
-    color: $color_alt;
+    color: $color_black;
   }
 }
 h2 {
@@ -98,41 +101,50 @@ h2 {
 
 // Layout
 .siteHeader {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: initial;
-  align-items: center;
-  padding: $base_spacing / 2;
-  background-image: url('/assets/img/teobn.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  // display: flex;
+  // flex-wrap: wrap;
+  // justify-content: initial;
+  // align-items: center;
+  // padding: $base_spacing / 2;
+  // background-image: url('/assets/img/teobn.jpg');
+  // background-position: top left;
+  // background-repeat: no-repeat;
+  // background-size: contain;
+  background-color: $color-alt;
   margin-bottom: $base_spacing / 2;
 }
 .siteTitle {
-  text-indent: -90000px;
-}
-.siteDescription {
-  font-size: 150%;
-  font-weight: inherit;
-  max-width: 270px;
-  // flex-basis: 270px;
-  // margin-bottom: 0;
-  color: $color_gray;
+  display: none;
+  // text-indent: -90000px;
 }
 .siteWell {
-  // display: flex;
-  // justify-content: center;
-  // align-items: center;
-  flex: 100%;
-  height: 350px;
-  // text-align: center;
+  padding-right: $base_spacing;
+  padding-bottom: $base_spacing / 2;
+  padding-left: $base_spacing;
+  // transition-property: margin-top;
+  transition-duration: 1s;
+  background-color: $color-alt;
+  @media screen and ( min-width: 1000px ) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    figure {
+      flex: 0 auto;
+    }
+    .siteDescription {
+      flex: 0 275px;
+      // font-size: 150%;
+      font-weight: inherit;
+    }
+    // transition-property: margin-top;
+    transition-duration: 1s;
+  }
 }
 
 .siteMain {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 0 $base_spacing/2;
+  padding: 0 $base_spacing;
   display: flex;
   flex-wrap: wrap;
   color: $color_black;
@@ -168,8 +180,8 @@ h2 {
 .site {
   &Nav {
     position: fixed;
-    top: $base_spacing/2;
-    right: $base_spacing/2;
+    top: $base_spacing / 2;
+    right: $base_spacing / 2;
     text-transform: uppercase;
   }
   &Menu {
@@ -217,9 +229,11 @@ h2 {
 .siteLogo {
   width: 100px;
   height: 50px;
+  margin-top: $base_spacing / 2;
+  margin-left: $base_spacing;
   fill: none;
   stroke-width: 10;
-  stroke: $color_alt;
+  stroke: $color_black;
   stroke-linecap: round;
   // stroke-dasharray: 0, 300;
   stroke-dasharray: 0, 300;
