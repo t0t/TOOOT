@@ -87,11 +87,11 @@ gulp.task('assets', [ 'fonts', 'pdf', 'img' ], function () {
 */
 gulp.task('jade', function() {
   gulp.src([ './views/*.jade', '!./views/_*.jade' ])
-    .pipe(data(function () {
+    .pipe(data(function() {
       return require('./views/data/data.json');
     }))
     .pipe(jade({pretty:true}))
-    .pipe(gulp.dest('./dist/'));
+    .pipe(gulp.dest('./dist'));
 });
 /*
   Compile stylus and jade
