@@ -303,6 +303,9 @@ body {
   font-size: 81%;
   line-height: 1.7;
   letter-spacing: 0; }
+  @media screen and (min-width: 900px) {
+    body {
+      font-size: 125%; } }
 
 img {
   max-width: 100%; }
@@ -330,6 +333,10 @@ figure {
 h2 {
   margin-bottom: 15px; }
 
+iframe {
+  max-width: 100%;
+  min-height: 200px; }
+
 *::-moz-selection {
   color: #323232;
   background-color: mediumaquamarine; }
@@ -349,9 +356,8 @@ h2 {
   padding-right: 30px;
   padding-bottom: 15px;
   padding-left: 30px;
-  transition-duration: 1s;
   background-color: mediumaquamarine; }
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 1030px) {
     .siteWell {
       display: -webkit-flex;
       display: -ms-flexbox;
@@ -359,18 +365,19 @@ h2 {
       -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-      -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-      justify-content: space-around;
+      -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
       transition-duration: 1s; }
       .siteWell figure {
-        -webkit-flex: 0 auto;
-        -ms-flex: 0 auto;
-        flex: 0 auto; }
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex: 1; }
       .siteWell .siteDescription {
-        -webkit-flex: 0 275px;
-        -ms-flex: 0 275px;
-        flex: 0 275px;
+        -webkit-flex: 0 350px;
+        -ms-flex: 0 350px;
+        flex: 0 350px;
+        padding-left: 30px;
         font-weight: inherit; } }
 
 .siteMain {
