@@ -357,10 +357,10 @@ h2 {
 .siteDescription {
   font-size: 100%;
   font-weight: inherit;
-  -webkit-flex: 0 0 160px;
-  -ms-flex: 0 0 160px;
-  flex: 0 0 160px;
-  max-width: 160px;
+  -webkit-flex: 0 0 200px;
+  -ms-flex: 0 0 200px;
+  flex: 0 0 200px;
+  max-width: 200px;
   margin-bottom: 0; }
 
 .siteMain {
