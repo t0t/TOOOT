@@ -1,9 +1,19 @@
-//
-	BASE HTML
+//- BASE HTML
 extends _base
-//
-	Main block
+
+//- Site Nav Main
+append navmain
+	include partials/_nav-main
+//- Site Header
+append header
+	include partials/_header
+  
+//- Main block
 append main
 	section.siteSection
-		h1 Cookie Policy
+		h1 Política de Cookies
 		p En proceso...
+
+//- Site Footer
+append footer
+	include partials/_footer
