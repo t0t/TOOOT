@@ -1,8 +1,10 @@
-![logo](./logo.png) :scream:
+![logo](./logo.png)
+
+![Image](./assets/img/image1.jpg)
 - [t0t.github.io/tot](http://t0t.github.io/tot)
 - [t0t.es](http://t0t.es)
 
-## About
+## :scream: About
 Personal project. Static site.
 
 ## Developement
