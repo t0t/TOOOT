@@ -1,5 +1,5 @@
 # Tot
-![Screenshot](./screenshot.png)
+![http://t0t.github.io/tot/](./screenshot.png)
 
 This is a clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés** - Fullstack Web Designer
 
