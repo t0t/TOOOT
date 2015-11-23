@@ -1,8 +1,7 @@
+# Tot
 ![Screenshot](./screenshot.png)
-- [t0t.github.io/tot](http://t0t.github.io/tot)
 
-## :scream: About
-Clean and fast static site.
+This is a Clean and fast static site handcrafted with :sparkling_heart: [t0t.github.io/tot](http://t0t.github.io/tot)
 
 ## Developement
 - Jade template system
@@ -23,18 +22,11 @@ Clean and fast static site.
 - ES6 Ready
 - AJAX
 
-## TODO
+## Todo
  - [ ] CNAME t0t.es > gh-pages
  - [ ] Contentful or WP-API
  - [ ] Add http://formspree.io/
 
-##### Personal Projects
-- [Tumblr](http://www.tumblr.com/t0tfotos) Diario de fotos
-- [TOT](https://www.facebook.com/T0T-156415467869146/) Facebook page
+Sergio Forés - Fullstack Web Designer
 
-##### Sergio Forés
- Fullstack Web Designer
--  [ Portfolio](http://t0t.github.io/sergiofores/)
-- [Repositories](https://github.com/t0t/)
-- [Linkedin](https://www.linkedin.com/in/sergiofores/)
-- Twitter [@t0tinspire](https://twitter.com/t0tinspire/)
+ [ Portfolio](http://t0t.github.io/sergiofores/) | [ Repositories ](https://github.com/t0t/) | [ Linkedin ](https://www.linkedin.com/in/sergiofores/) | [Tumblr](http://www.tumblr.com/t0tfotos) | [TOT](https://www.facebook.com/T0T-156415467869146/) | [@t0tinspire](https://twitter.com/t0tinspire/)
