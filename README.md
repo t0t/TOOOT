@@ -5,7 +5,7 @@
 - [t0t.es](http://t0t.es)
 
 ## :scream: About
-Personal project. Static site.
+Clean and fast static site.
 
 ## Developement
 - Jade template system
@@ -27,15 +27,16 @@ Personal project. Static site.
 - AJAX
 
 ## TODO
-
  - [ ] CNAME t0t.es > gh-pages
+ - [ ] Contentful or WP-API
+ - [ ] Add http://formspree.io/
 
 ##### Personal Projects
 - [#t0tfotos](http://www.tumblr.com/t0tfotos) Diario fotográfico
 - [#TOT](https://www.facebook.com/T0T-156415467869146/) Facebook page
 
-##### Credits
-Sergio Forés is a Fullstack Web Designer
+##### Sergio Forés
+ Fullstack Web Designer
 -  [ Portfolio](http://t0t.github.io/sergiofores/)
 - [Repositories](https://github.com/t0t/)
 - [Linkedin](https://www.linkedin.com/in/sergiofores/)
