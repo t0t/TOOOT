@@ -1,112 +1,23 @@
-//
-	BASE HTML
+//- BASE HTML
 extends _base
-//
-	Site Header
-block header
-	header.siteHeader
-		a( href="index.html", class="siteBrand" )
-			svg( class="siteLogo" )
-				use( xlink:href="assets/img/icons.svg#logo" )
-		h1.siteTitle #{ title }
-		//- h2.siteDescription #{ sitedesc }
-//
-	Main block
+
+//- Site Nav Main
+append navmain
+	include partials/_nav-main
+//- Site Header
+append header
+	include partials/_header
+
+//- Main block
 append main
+	main.siteMain
+		//- Component Resume
+		include components/_resume
+		//- Component Geocrom
+		include components/_geocrom
+		//- Component External-Links
+		include components/_external-links
 
-	//- figure
-	//- 	img(src="assets/img/teobn.jpg", alt="teo bn")
-	//- 	figcaption Teo
-
-	section.siteSection
-		h1 Introducción
-		p Todos venimos con conexión a lo absoluto pero no nos han enseñado a compartirlo de una manera limpia, sin filtros y sin ruido.
-			| TOT busca eso; la comunicación directa y fácil entre mi mente y el mundo a través del corazón. Es el proceso creativo de decir y describir verdaderamente lo que uno va viendo cuando accede a la fuente.
-		h1 Presentación
-		p Imagínate por un momento que ya lo sabes todo, me refiero a todo aquello que es esencial; qué haces aqui, para qué has venido, porqué eres así..., tienes todas esas respuestas en tu interior. Wow! Correrías a explicarselo a los demás ¿no?. Pensarían que eres un arrogante, un iluminado, un loco, un megalómano, un santo, un enfermo, un maestro... y pensarían una u otra cosa en función de cómo les contaras tu descubrimiento (también de su nivel de comprensión de las cosas) pero sobretodo de tu habilidad para transmitir. Lo importante en tu vida ya no sería haber encontrado la respuesta a todas las preguntas de la humanidad sino qué hacer con eso y cómo comunicarlo.
-		p Pues bien, eso es TOT; un arrogante, un iluminado, un loco, un megalómano, un santo, un enfermo, un maestro que se siente inmensamente rico en su mina de oro particular y que busca la manera de salir y contarselo a alguien. Para mí el fin último ya no está en llegar a saber, sino en aprender a transmitir esa información a los demás de una forma directa, limpia, sincera.
-		blockquote Me gusta mucho usar el lenguaje de programación Javascript y el diseño web como analogía porque... todo son analogías!
-		p En psicología hay un fenómeno llamado "casualmente" TOT (Tip of the Tongue) que conocemos como "tener algo en la punta de la lengua". Es cuando sabes cómo es algo, tienes la imagen mental pero no te viene el nombre en ese momento. TOT es el nombre de este proyecto pero yo no sabía ese otro significado de la palabra. Mis hijos se llaman Teo y OTto. El Kybalión describe los 7 principios universales escritos en una tablilla hace millones de años por Hermes Trimegisto conocido como el dios egipcio THOT. Y lo mismo ocurre con los lenguajes de programación y las personas. Funciones, objetos, variables, propiedades se usan tanto para construir una vida como para crear un sitio web. El conocimiento que trajo Gurdieff de la tradición Sufí en Oriente y que luego se convirtió en el Eneagrama es exactamente lo mismo que las Matemáticas vorticiales que descubrió Marko Rodin... 
-		blockquote Al final no hay nadie que invente nada, todo está ya en el campo unificado o mórfico o como quieras llamarlo. Esto es muy grande porque la información ya está ahi disponible para todos. De ahí que parta de la base de que ya lo sabemos todo.
-		h3 Sintoniza la frecuencia
-		p Una bailarina, un pintor, un músico, un cocinero... son capaces de acceder a esa fuente y recibir ese flujo de inspiración y todos te dirán que es como si algo les llevara y actuara a través de ellos. En mi caso me resulta facil sintonizarme a través de equilibrar piedras o haciendo garabatos sobre papel de arroz, por ejemplo.
-		p Pero ¿cuál es el canal estandar de la comunicación? El habla. Ese es el modo de expresión estandar de la humanidad y al mismo tiempo el organo más atrofiado y mal entendido. Algo pasó en la torre de Babel que no me explico. En esencia hablar es comunicar de forma directa lo que está pasando en tu interior ¿no? Entonces porqué hay tanta confusión, ruido y bloqueos a veces para conectar con lo que quieres decir? Algo intefiere en ese punto.
-		p La persona que crees que eres sigue los patrones de un programa que tú mismo has creado influído por el entorno en el que has crecido. Observar este programa es hacerlo consciente, sintonizarlo, bajar el nivel de ruido.
-		h3 Comparte lo que sabes
-		blockquote Tu verdadera naturaleza es participar en la  realidad, contemplando las riquezas  infinitas del mundo.
-		p Expresar significa "sacar fuera la presión", aflojar, soltar lo que está en tu interior. Dicen que no entiendes realmente algo hasta que lo explicas.
-		p Cuando nosotros focalizamos la atención de algo hacia dentro se genera un flujo de energía y ese flujo tambien genera información. Si meditamos sobre algo creamos un flujo, una corriente, y ese algo parece comunicarse con nosotros. "Es como si nos hablara". Cuando nos damos cuenta de ese fluir de la conciencia es cuando entre el observador, aquello que observamos y el acto de observar no hay separación, surge la magia, nos damos cuenta de que hay abundancia, nos damos cuenta de que no es necesario guardar nada... Y así es como llegamos al corazón, podemos entregar aquello que nos ha sido dado.
-
-	section.siteSection
-		h1 La información, flujo de datos... (articulo en elaboración)
-		p Geocrom: La forma cura, sana, estructura.
-		blockquote Lo que realmente importa no puede verse, pero sabes cuándo está y cuando no.
-		p Si eso de conectar con los Registros Akásicos o los Campos Mórficos te suena a demasiado esotérico entonces puedes usar la analogía de Internet, Dios ahora es Google ¿no?.
-		p Escribimos una palabra en el buscador y obtenemos toda la información, pero no la "traemos" realmente porque la información son mapas que indican lugares, no son los lugares. Observamos y no somos conscientes de hasta qué punto lo observado afecta nuestro inconsciente.
-		p Hay un intercambio entre el observador y lo observado. Siempre. Las formas son vibración y producen efectos. (GEOCROM)
-		iframe( width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="http://www.ivoox.com/player_ek_9466382_2_1.html?data=mpmjmJicdo6ZmKiakpWJd6KpmJKSmaiRdo6ZmKiakpKJe6ShkZKSmaiRktDowpDRx5Das9ufkpKSmaiRuJHojoqkpZKY&" )
-		p
-		p Este proyecto es multidimesional, tiene diversas capas, unas dentro de otras. <a href="https://github.com/t0t/tot#ejemplo-del-aspecto-que-tendría-mi-programa">Puedes acceder al código fuente en Github</a> que es un sistema de control de versiones lo que significa que puedes acceder a cualquier momento del pasado y en cualquiera de sus diversas ramas.
-		p Tengo en preparación una serie de videos y audios.
-
-		h2 Formas, Color, Geometría Sagrada, Artevv
-		svg.svg.square
-			use( xlink:href="assets/img/icons.svg#square" )
-		svg.svg.pentagon
-			use( xlink:href="assets/img/icons.svg#pentagon" )
-		svg.svg.dodecaedro
-			use( xlink:href="assets/img/icons.svg#dodecaedro" )
-		svg.svg.triangle
-			use( xlink:href="assets/img/icons.svg#triangle" )
-		svg.svg.hexagon
-			use( xlink:href="assets/img/icons.svg#hexagon" )
-		svg.svg.circle
-			use( xlink:href="assets/img/icons.svg#circle" )
-		svg.svg.lines
-			use( xlink:href="assets/img/icons.svg#lines" )
-		svg.svg.ellipse
-			use( xlink:href="assets/img/icons.svg#ellipse" )
-		svg.svg.path
-			use( xlink:href="assets/img/icons.svg#path" )
-		svg.svg.octagon
-			use( xlink:href="assets/img/icons.svg#octagon" )
-
-		ul
-			li: a( href="http://www.tumblr.com/t0tfotos" ) Diario fotográfico
-			li: a( href="https://www.facebook.com/T0T-156415467869146/" ) #TOT Facebook page
-			li: a( href="http://www.ivoox.com/player_ek_1435142_2_1.html?data=kpmgl5aYdo6ZmKiakpaJd6KnlZKSmaiRdY6ZmKiakpKJe6ShkZKSmaiRitPVyNLS0NnTb8XZjKrZjajFscPd0JKSmaiRuJHojoqkpZKU&" ) Fragmento de "El Cambio"
-			li Ejemplos de "nuevas" o quizá no tan nuevas formas de entender y vivir el arte:
-			li: a( href="http://jesusolmo.com" ) Jesús Olmo
-			li: a( href="http://flowpiano.es" ) Ricardo Andrés Tomás
-
-	ul
-		li Eneagrama
-		li: a( href="http://martapovo.es/sus-libros/" ) Libros Geocrom
-		li Matemáticas vorticiales
-		li Teoría del todo de Valdeande Mágico
-		li Marko Rodin
-		li http://www.ivoox.com/nota-voz-1-audios-mp3_rf_9466382_1.html
-
-	section.siteSection
-		h1 4. Piezas de código
-
-		.codepen( data-height="268", data-theme-id="0", data-slug-hash="azZemX", data-default-tab="result", data-user="t0t" ) See the Pen
-			a( href='http://codepen.io/t0t/pen/azZemX/' ) SVG viewBox by Sergio Forés
-			a( href='http://codepen.io/t0t' ) @t0t
-			a( href='http://codepen.io' ) CodePen
-
-		.codepen( data-height="268", data-theme-id="0", data-slug-hash="meLPyv", data-default-tab="result", data-user="t0t" ) See the Pen
-			a( href='http://codepen.io/t0t/pen/meLPyv/' ) GEOCROM Sergio Forés
-			a( href='http://codepen.io/t0t' ) @t0t
-			a( href='http://codepen.io' ) CodePen
-
-		.codepen( data-height="268", data-theme-id="0", data-slug-hash="KdRKpQ", data-default-tab="result", data-user="t0t" ) See the Pen
-			a( href='http://codepen.io/t0t/pen/KdRKpQ/') SVG viewBox by Sergio Forés
-			a( href='http://codepen.io/t0t' ) @t0t
-			a( href='http://codepen.io' ) CodePen
-
-		.codepen( data-height="268", data-theme-id="0", data-slug-hash="qOMKPr", data-default-tab="result", data-user="t0t" ) See the Pen
-			a( href='http://codepen.io/t0t/pen/qOMKPr/') SVG viewBox by Sergio Forés
-			a( href='http://codepen.io/t0t' ) @t0t
-			a( href='http://codepen.io' ) CodePen
-		script( async src="//assets.codepen.io/assets/embed/ei.js" )
+//- Site Footer
+append footer
+	include partials/_footer

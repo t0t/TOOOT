@@ -20,28 +20,14 @@ $colors: (
     fill: $color;
   }
 }
-
-.hexagon {
-  @extend .blue;
-}
-.triangle {
-  @extend .yellow;
-}
-.square {
-  @extend .white;
-}
-.dodecaedro {
-  @extend .blue;
-}
-.pentagon {
-  @extend .violet;
-}
-.circle {
-  @extend .red;
-}
-.ellipse {
-  @extend .green;
-}
+.hexagon { @extend .blue; }
+.triangle { @extend .yellow; }
+.square { @extend .white; }
+.dodecaedro { @extend .blue; }
+.pentagon { @extend .violet; }
+.circle { @extend .red; }
+.ellipse { @extend .green; }
+.octagon { @extend .violet; }
 .lines {
   stroke-width: 1;
   stroke: $color_black;
@@ -51,9 +37,6 @@ $colors: (
   stroke-width: 4;
   stroke: $color_black;
   fill: none;
-}
-.octagon {
-  @extend .violet;
 }
 
 // Base
@@ -115,31 +98,6 @@ iframe {
   display: none;
   // text-indent: -90000px;
 }
-.siteWell {
-  padding-right: $base_spacing;
-  padding-bottom: $base_spacing / 2;
-  padding-left: $base_spacing;
-  // transition-property: margin-top;
-  // transition-duration: 1s;
-  background-color: $color-alt;
-  @media screen and ( min-width: 1030px ) {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    figure {
-      flex: 1;
-    }
-    .siteDescription {
-      flex: 0 350px;
-      padding-left: $base_spacing;
-      // font-size: 150%;
-      font-weight: inherit;
-    }
-    // transition-property: margin-top;
-    transition-duration: 1s;
-  }
-}
-
 .siteMain {
   max-width: 1280px;
   margin: 0 auto;
@@ -168,12 +126,7 @@ iframe {
     }
   }
 }
-.siteSection {
-  // flex: 1 50%;
-  // .gist {
-  //   max-width: 345px;
-  // }
-}
+.siteSection {}
 
 // Site Nav
 .site {
@@ -241,6 +194,27 @@ iframe {
   animation-timing-function: ease-out;
   animation-iteration-count: 1;
   animation-fill-mode: forwards; //backwards
+}
+// Components
+.compResume {
+  padding-right: $base_spacing;
+  padding-bottom: $base_spacing / 2;
+  padding-left: $base_spacing;
+  background-color: $color-alt;
+  @media screen and ( min-width: 1030px ) {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    figure {
+      flex: 1;
+    }
+    .siteDescription {
+      flex: 0 350px;
+      padding-left: $base_spacing;
+      font-weight: inherit;
+    }
+    transition-duration: 1s;
+  }
 }
 
 // Animations
