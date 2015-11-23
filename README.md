@@ -38,7 +38,8 @@ Clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés
 - AJAX
 
 ## todo list
+ - [x] Refactorize, refactorize and refactorize
+ - [ ] Use page.js for routing?
  - [ ] Add http://formspree.io/
  - [ ] Contentful or WP-API
  - [x] Add EU Cookie Law
- - [ ] Maybe use page.js for routes
