@@ -1,7 +1,9 @@
 # Tot
 ![Screenshot](./screenshot.png)
 
-This is a Clean and fast static site handcrafted with :sparkling_heart: [t0t.github.io/tot](http://t0t.github.io/tot)
+This is a clean and fast static site handcrafted with :sparkling_heart:
+
+[t0t.github.io/tot](http://t0t.github.io/tot)
 
 ## Developement
 - Jade template system
