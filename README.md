@@ -1,30 +1,43 @@
 # Tot
 ![Screenshot](./screenshot.png)
 
-This is a clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés - Fullstack Web Designer**
+This is a clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés** - Fullstack Web Designer
 
  [ Portfolio ](http://t0t.github.io/sergiofores/) | [ Repositories ](https://github.com/t0t/) | [ Linkedin ](https://www.linkedin.com/in/sergiofores/) | [ Tumblr ](http://www.tumblr.com/t0tfotos) | [ Facebook ](https://www.facebook.com/T0T-156415467869146/) | [ @t0tinspire ](https://twitter.com/t0tinspire/)
 
-## Developement
+## developed with...
 - Jade template system
-- Custom Gulp tasks
+- Gulp tasks
+  - gulp-sourcemaps
+  - gulp-autoprefixer
+  - gulp-gh-pages
+  - browser-sync
+  - gulp-concat
+  - gulp-image
+  - gulp-uglify
+  - gulp-babel
+  - gulp-data
+  - gulp-sass
+  - gulp-jade
+  - del
 - Preprocessed in Sass
+- Git Control Version
 - Plain Javascript
 - NPM Modules
-- Git Control Version
 
-## Features
+## features
+- No third part libraries
+- SVG Icon Symbols
 - CSS Components
 - Mobile first
-- Responsive
-- No third part libraries
-- Scalable
-- Lightweight
 - Mantainable
+- Lightweight
+- Responsive
 - ES6 Ready
+- Scalable
 - AJAX
 
-## Todo
- - [ ] CNAME t0t.es > gh-pages
- - [ ] Contentful or WP-API
+## todo list
  - [ ] Add http://formspree.io/
+ - [ ] Contentful or WP-API
+ - [x] Add EU Cookie Law
