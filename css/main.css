@@ -352,34 +352,6 @@ iframe {
 .siteTitle {
   display: none; }
 
-.siteWell {
-  padding-right: 30px;
-  padding-bottom: 15px;
-  padding-left: 30px;
-  background-color: mediumaquamarine; }
-  @media screen and (min-width: 1030px) {
-    .siteWell {
-      display: -webkit-flex;
-      display: -ms-flexbox;
-      display: flex;
-      -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-      -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-      justify-content: space-between;
-      transition-duration: 1s; }
-      .siteWell figure {
-        -webkit-flex: 1;
-        -ms-flex: 1;
-        flex: 1; }
-      .siteWell .siteDescription {
-        -webkit-flex: 0 350px;
-        -ms-flex: 0 350px;
-        flex: 0 350px;
-        padding-left: 30px;
-        font-weight: inherit; } }
-
 .siteMain {
   max-width: 1280px;
   margin: 0 auto;
@@ -463,6 +435,34 @@ iframe {
   animation-iteration-count: 1;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards; }
+
+.compResume {
+  padding-right: 30px;
+  padding-bottom: 15px;
+  padding-left: 30px;
+  background-color: mediumaquamarine; }
+  @media screen and (min-width: 1030px) {
+    .compResume {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      transition-duration: 1s; }
+      .compResume figure {
+        -webkit-flex: 1;
+        -ms-flex: 1;
+        flex: 1; }
+      .compResume .siteDescription {
+        -webkit-flex: 0 350px;
+        -ms-flex: 0 350px;
+        flex: 0 350px;
+        padding-left: 30px;
+        font-weight: inherit; } }
 
 @-webkit-keyframes anim_logo {
   100% {
