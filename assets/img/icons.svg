@@ -6,7 +6,6 @@
     <path d="M21.9888586,2.32722602 L19.7983876,0 L6.66336504,13.9560362 L2.19047098,9.20328746 L1.77635684e-15,11.5305135 L6.65598357,18.602496 L6.66350564,18.5944291 L6.67081682,18.6023466 L21.9888586,2.32722602 Z" id="Shape"></path>
   </symbol>
   <symbol id="logo" viewBox="0 -5 119 65">
-    <title>Logo tot</title>
     <desc>Logotipo proyecto tot</desc>
     <path d="M15.6254809,45.1748401 L15.6254809,24.8566555" class="trazo2"></path>
     <path d="M78.1274044,43.0914427 L78.1274044,22.7732581" class="trazo3"></path>
@@ -52,5 +51,10 @@
   <symbol id="octagon">
     <polygon points="34.2,87.4 12.3,65.5 12.3,34.5 34.2,12.6 65.2,12.6 87.1,34.5 87.1,65.5 65.2,87.4" />
   </symbol>
-    
+  <symbol id="logo-sf" class="brand__logo" viewBox="0 0 90 180">
+    <desc>Logo SF</desc>
+    <path d="M0 36 L36 36 L36 72 L0 72 L0 36 Z" class="juguete"/>
+    <path d="M36 72 L72 72 L72 108 L36 108 L36 72 Z" class="mano"/>
+    <path d="M72 144 C72 144 0 144 0 144 L0 180 L108 180 L108 0 L72 0 C72 0 72 144 72 144 Z" class="cuerpo"/>
+  </symbol>
 </svg>
