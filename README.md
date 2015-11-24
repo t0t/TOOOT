@@ -4,6 +4,7 @@
 Clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés** - Fullstack Web Designer
 
  [ Portfolio ](http://t0t.github.io/sergiofores/) | [ Repositories ](https://github.com/t0t/) | [ Linkedin ](https://www.linkedin.com/in/sergiofores/) | [ Tumblr ](http://www.tumblr.com/t0tfotos) | [ Facebook ](https://www.facebook.com/T0T-156415467869146/) | [ @t0tinspire ](https://twitter.com/t0tinspire/)
+ [ Portfolio ](http://t0t.github.io/sergiofores/) | [ Repositories ](https://github.com/t0t/) | [ Linkedin ](https://www.linkedin.com/in/sergiofores/) | [ Tumblr ](http://www.tumblr.com/t0tfotos) | [ Facebook ](https://www.facebook.com/T0T-156415467869146/) | [ Codepen ](http://codepen.io/t0t/)
 
 ## developed with...
 - Jade template system
@@ -26,6 +27,7 @@ Clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés
 - NPM Modules
 
 ## features
+- Naming convention in mind
 - No third part libraries
 - SVG Icon Symbols
 - CSS Components
@@ -38,8 +40,11 @@ Clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés
 - AJAX
 
 ## todo list
+ - [ ] Use Svgomg https://jakearchibald.github.io/svgomg/
  - [x] Refactorize, refactorize and refactorize
  - [ ] Use page.js for routing?
  - [ ] Add http://formspree.io/
  - [ ] Contentful or WP-API
  - [x] Add EU Cookie Law
+ - [ ] Mirar el tema de implementar sistema de posts estáticos en yml, markup o JSON...
+ - [ ] Implementar Html5 API's Audio/Video - Miro Converter => html5please.com | archive.org Player: mediaelementjs.com
