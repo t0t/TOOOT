@@ -102,10 +102,7 @@ iframe {
   background-color: $color-alt;
   margin-bottom: $base_spacing / 2;
 }
-.siteTitle {
-  display: none;
-  // text-indent: -90000px;
-}
+
 .siteMain {
   max-width: 1280px;
   margin: 0 auto;
@@ -202,23 +199,34 @@ iframe {
 }
 
 // Components
-.siteBrand {}
-.siteLogo {
-  width: 100px;
-  height: 50px;
-  margin-top: $base_spacing / 2;
-  margin-left: $base_spacing;
-  fill: none;
-  stroke-width: 10;
-  stroke: $color_black;
-  stroke-linecap: round;
-  // stroke-dasharray: 0, 300;
-  stroke-dasharray: 0, 300;
-  animation-name: anim_logo;
-  animation-duration: 7s;
-  animation-timing-function: ease-out;
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards; //backwards
+.site {
+  &Brand {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 145px;
+  }
+  &Title {
+    text-transform: uppercase;
+    font-size: 90%;
+    align-self: center;
+  }
+  &Logo {
+    width: 50px;
+    height: 50px;
+    margin-top: $base_spacing / 2;
+    margin-left: $base_spacing;
+    fill: none;
+    stroke-width: 1;
+    stroke: $color_black;
+    stroke-linecap: round;
+    // stroke-dasharray: 0, 300;
+    stroke-dasharray: 0, 300;
+    animation-name: anim_logo;
+    animation-duration: 7s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards; //backwards
+  }
 }
 .compResume {
   padding-right: $base_spacing;

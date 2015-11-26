@@ -1,8 +1,9 @@
 //- Site Header Home
 header.siteHeader
-	h1.siteTitle #{ title }
 	a( href="index.html", class="siteBrand" )
 		svg( class="siteLogo" )
 			use( xlink:href="assets/img/icons.svg#logo" )
+		h1.siteTitle #{ title }
+
 	//- Component Resume
 	include ../components/_resume
