@@ -1,12 +1,13 @@
 // Settings
 $base_spacing: 30px;
 $spacing: 10;
+$path: "../assets/img/";
 // Colors
 $color_base: SaddleBrown;
 $color_white: white;
 $color_black: rgb(50,50,50);
 $color_gray: lighten($color_black, 72);
-$color_alt: mediumaquamarine;
+$color_alt: rgb(251,210,189);
 $colors: (
   red: red,
   white: $color_black,
@@ -20,18 +21,30 @@ $colors: (
     fill: $color;
   }
 }
-.hexagon { @extend .blue; }
-.triangle { @extend .yellow; }
-.square { @extend .white; }
-.dodecaedro { @extend .blue; }
-.pentagon { @extend .violet; }
-.circle { @extend .red; }
-.ellipse { @extend .green; }
-.octagon { @extend .violet; }
-.lines {
-  stroke-width: 1;
+.svgContainer {
+}
+.svg {
   stroke: $color_black;
-  fill: none;
+  stroke-width: 1;
+  fill: $color_alt;
+  &Logo {
+    max-width: 500px;
+    padding: 20px;
+  }
+  &--cover {
+    flex: 0 350px;
+    fill: none;
+    stroke: $color_alt;
+    margin-left: $base_spacing;
+    margin-right: $base_spacing;
+  }
+  &Pentagon {}
+  &Dodecadedro {}
+  &Lines {
+    stroke-width: 1;
+    stroke: $color_black;
+    fill: none;
+  }
 }
 .path {
   stroke-width: 4;
@@ -100,7 +113,7 @@ iframe {
 // Layout
 .siteHeader {
   background-color: $color-alt;
-  margin-bottom: $base_spacing / 2;
+  // margin-bottom: $base_spacing / 2;
 }
 
 .siteMain {
@@ -221,47 +234,44 @@ iframe {
     stroke-linecap: round;
     // stroke-dasharray: 0, 300;
     stroke-dasharray: 0, 300;
-    animation-name: anim_logo;
+    animation-name: dibuja;
     animation-duration: 7s;
     animation-timing-function: ease-out;
     animation-iteration-count: 1;
     animation-fill-mode: forwards; //backwards
   }
 }
-.compResume {
-  padding-right: $base_spacing;
-  padding-bottom: $base_spacing / 2;
-  padding-left: $base_spacing;
-  background-color: $color-alt;
+.cover {
+  // padding: $base_spacing;
   display: flex;
   flex-wrap: wrap;
-  @media screen and ( min-width: 1030px ) {
-    justify-content: space-between;
-    figure {
-      flex: 1;
-    }
-    header {
-      flex: 0 350px;
-      padding-left: $base_spacing;
-      font-weight: inherit;
-    }
-  }
-  @media screen and ( min-width: 1430px ) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url('#{$path}teobn.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: $color_alt;
+  h2 {
+    flex: 1 100%;
+    font-weight: inherit;
     text-align: center;
-    align-items: center;
-    figure {
-      flex: 1 auto;
-    }
-    header {
-      flex: 1 500px;
-      font-weight: inherit;
-    }
+    padding: $base_spacing;
+    margin-bottom: 0;
   }
+  @media screen and ( min-width: 1030px ) {}
+  @media screen and ( min-width: 1430px ) {}
 }
 
 // Animations
-@keyframes anim_logo {
+@keyframes dibuja {
   100% {
     stroke-dasharray: 300, 300;
+  }
+}
+@keyframes dibuja2 {
+  100% {
+    stroke-dasharray: 700, 700;
   }
 }

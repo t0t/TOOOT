@@ -40,6 +40,7 @@ Clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés
 - AJAX
 
 ## todo list
+ - [ ] Implementar API Twitter
  - [ ] Use Svgomg https://jakearchibald.github.io/svgomg/
  - [x] Refactorize, refactorize and refactorize
  - [ ] Use page.js for routing?
