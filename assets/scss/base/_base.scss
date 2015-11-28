@@ -57,7 +57,7 @@ body {
   font-family: Open Sans;
   font-size: 81%;
   line-height: 1.7;
-  letter-spacing: 0;
+  // letter-spacing: 4;
   @media screen and (min-width: 900px ) {
     font-size: 125%;
   }
@@ -252,13 +252,19 @@ iframe {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  color: $color_alt;
-  h2 {
+  min-height: 667px;
+  &__title,
+  &__description {
+    color: $color_alt;
     flex: 1 100%;
-    font-weight: inherit;
     text-align: center;
     padding: $base_spacing;
+    font-weight: inherit;
     margin-bottom: 0;
+    letter-spacing: 3px;
+  }
+  &__title {
+    text-transform: uppercase;
   }
   @media screen and ( min-width: 1030px ) {}
   @media screen and ( min-width: 1430px ) {}
