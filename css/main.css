@@ -508,7 +508,7 @@ iframe {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  min-height: 667px; }
+  min-height: 585px; }
   .cover__title, .cover__description {
     color: #fbd2bd;
     -webkit-flex: 1 100%;
