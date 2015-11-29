@@ -56,8 +56,9 @@ $colors: (
 body {
   font-family: Open Sans;
   font-size: 81%;
-  line-height: 1.7;
-  // letter-spacing: 4;
+  line-height: 1.9;
+  letter-spacing: 1;
+  background-color: $color-alt;
   @media screen and (min-width: 900px ) {
     font-size: 125%;
   }
@@ -68,6 +69,9 @@ img {
 a {
   color: $color_black;
   text-decoration: none;
+}
+ul li {
+  margin-bottom: $base_spacing / 2;
 }
 ul li a {
   font-weight: bold;
@@ -145,10 +149,10 @@ iframe {
   }
 }
 .siteFooter {
-  background-color: $color_gray;
+  // background-color: $color_gray;
   padding: $base_spacing/2;
   a {
-    color: lighten($color_black, 50);
+    // color: lighten($color_black, 50);
     border-bottom: none;
     &:hover {
       color: $color_black;
@@ -167,20 +171,29 @@ iframe {
 .site {
   &Nav {
     position: fixed;
-    top: $base_spacing / 2;
-    right: $base_spacing / 2;
+    top: 0;
+    right: 0;
     text-transform: uppercase;
+    background-color: $color-alt;
+    transition-property: transform;
+    transition-duration: .1s;
+    transition-timing-function: ease;
+    transform: translate(100px,0) rotate(-45deg);
+    &.active {
+      transition-property: transform;
+      transition-duration: .1s;
+      transition-timing-function: ease;
+      transform: translate(0,0) rotate(0deg);
+      input {
+        background-color: $color_black;
+        color: $color_white;
+      }
+    }
   }
   &Menu {
-    display: none;
     margin: 0;
     padding: 0;
     list-style: none;
-    &.active { display: block; }
-    &.active + input {
-      background-color: $color_black;
-      color: $color_white;
-    }
   }
 }
 
@@ -192,6 +205,7 @@ iframe {
   }
   &Nav {
     background-color: $color_alt;
+    margin-bottom: 0;
     a {
       padding: $base_spacing/2;
       color: $color_black;
@@ -204,6 +218,7 @@ iframe {
   &Toggle {
     padding: $base_spacing/2;
     background-color: $color_alt;
+    text-transform: uppercase;
     &:hover {
       background-color: $color_black;
       color: $color_white;
@@ -241,8 +256,12 @@ iframe {
     animation-fill-mode: forwards; //backwards
   }
 }
+.agradecimientos {
+  line-height: 1.5;
+  // margin-bottom: $base_spacing;
+}
 .cover {
-  // padding: $base_spacing;
+  margin-bottom: $base_spacing;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -252,7 +271,7 @@ iframe {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  min-height: 667px;
+  min-height: 585px;
   &__title,
   &__description {
     color: $color_alt;

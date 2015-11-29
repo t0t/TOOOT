@@ -4,18 +4,18 @@
 function onWindowLoaded() {
   // Main Nav
   var menuBtn = document.getElementById('hamenu');
-  var menu = document.getElementsByClassName('siteMenu')[0];
+  var menu = document.getElementsByClassName('siteNav')[0];
   function menuAction () {
     if ( menuBtn.value == 'X' ) {
       menuBtn.value = 'Menu';
-      menu.className = 'siteMenu';
+      menu.className = 'siteNav';
     } else {
       menuBtn.value = 'X';
-      menu.className = 'siteMenu active';
+      menu.className = 'siteNav active';
     }
   };
   menuBtn.addEventListener( 'click', menuAction );
-  
+
   // Replate code tags
   // var code = document.getElementsByTagName('code');
   // code.innerHTML = code.innerHTML.replace(/</g,'&lt;').replace(/>/g,'&gt;')

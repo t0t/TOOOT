@@ -1,58 +1,24 @@
 //- BASE HTML
 extends _base
-
 //- Site Nav Main
-//- append navmain
-//- 	include partials/_nav-main
+append navmain
+	include partials/_nav-main
 //- Site Header Home
 append header
 	//- include partials/_header-home
 	//- Component External-Links
 	include components/_cover
-
 //- Main block
 append main
 	main.siteMain
-		section.siteSection
-			svg.svg.svgLogo( viewBox="0 0 100 100" )
-				use( xlink:href="assets/img/icons.svg#logo" )
-
-			h1 Contenidos
-			ul
-				li Audios (aprendiendo a expresar lo inefable)
-				li Exégesis (textos cortos y profundos)
-				li Fotos
 		section.siteSection
 			h1 Audios
 			audio(controls)
 				source(src="./assets/audios/totaudio-voz.m4a")
 				Your browser does not support the <code>audio</code> element.
-			h1 Exégesis
-			ul
-				li ¿Eres completamente aquello que eres?
-				li Conseguí ver la mandarina que estaba mirando sin obviar que "eso" era una mandarina.
-				li Noté que respiraba y me dí cuenta de que estaba vivo. Entrar en comunicación con el único instante en el que existo.
-				li Si piensas te pierdes
-				li Aprendemos a hablar antes de saber lo que queremos decir.
-				li El mero acto de observar significa que la luz que hay fuera entra dentro de tí, tan sólo esto ya es increíble, un milagro. Y ¿en qué se convierte ahí dentro?
-				li Observas al observador y todo lo que observas ya no es lo mismo.
-				li Cuando focalizamos la atención de algo hacia dentro se genera un flujo de energía que parece comunicarse con nosotros. Nos damos cuenta de ese fluir de la conciencia, hay abundancia, ya no es necesario guardar nada... Llegamos al corazón y podemos entregar aquello que nos ha sido dado.
-				li No sabes nada, deja que simplemente suceda
-				li Cada cosa es un portal, un cruce entre otras dos cosas. Si esa cosa libera energía o significado ¡no lo toques!
-				li El mapa de la montaña no es la montaña
-				li Las herramientas están para servirnos a nosotros, no al revés.
-				li Como es arriba es abajo
-				li Todo es una analogía de todo. El desarrollo web es una mini versión del universo.
-				li La persona que crees que eres sigue los patrones de un programa que tú mismo has creado influído por el entorno en el que has crecido.
-				li Las formas son objetos con variables que cumplen funciones.
-				li En psicología hay un fenómeno llamado "casualmente" TOT (Tip of the Tongue) que conocemos como "tener algo en la punta de la lengua".
-				li Es cuando sabes cómo es algo, tienes la imagen mental pero no te viene el nombre en ese momento. Vamos bien, eso es lo que me pasaba cuando empezaba a sentir este proyecto. Mis hijos se llaman Teo y OTto... El dios egipcio THOT siempre me ha interesado, simbolizaba la mediación entre distintas realidades.
-				li Tu verdadera naturaleza es participar en la realidad, contemplando las riquezas  infinitas del mundo.
-				li Lo que realmente importa no puede verse, pero sabes cuándo está y cuando no.
-				li Los organismos son seres organizados, ¡menos mal!
-				li Lo difícil es comprender lo simple.
-				li Pensar es ver lo que ya estaba ahí desde siempre.
-
+		section.siteSection
+			//- Component Exegesis
+			include components/_exegesis
 			//- Component External-Links
 			include components/_external-links
 
