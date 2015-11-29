@@ -12,11 +12,11 @@ append header
 //- Posts block
 block posts
 	section.posts
-		h1 #{ Posts[1].title }
+		h1 #{ Posts[2].title }
 		figure
-			img( src="#{ Posts[1].img }", alt="#{ Posts[1].title }" )
-			figcaption - #{ Posts[1].title }
-		p #{ Posts[1].text }
+			img( src="#{ Posts[2].img }", alt="#{ Posts[2].title }" )
+			figcaption - #{ Posts[2].title }
+		p #{ Posts[2].text }
 		audio(controls)
-			source(src="#{ Posts[1].audio }")
+			source(src="#{ Posts[2].audio }")
 			Your browser does not support the <code>audio</code> element.
