@@ -1,0 +1,12 @@
+//- Posts block
+block posts
+	section.posts
+	each p in Posts
+		h1 #{ p.title } BASEPOSTS
+		figure
+			img( src="#{ p.img }", alt="#{ p.title }" )
+			figcaption - #{ p.title }
+		p #{ p.text }
+		audio(controls)
+			source(src="#{ p.audio }")
+			Your browser does not support the <code>audio</code> element.
