@@ -1,0 +1,9 @@
+<svg width="495" height="503" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Rectangle 3 Copy + Rectangle 3 Copy 3
+  </title>
+  <g stroke="#000" fill="#FCD2BE" fill-rule="evenodd">
+    <path d="M1 256.067L247.85 9.435l246.525 246.31-246.85 246.63L1 256.068z"/>
+    <path d="M246.85 0l246.525 246.31-246.85 246.63L0 246.633 246.85 0z"/>
+  </g>
+</svg>
