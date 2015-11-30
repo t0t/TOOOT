@@ -292,6 +292,9 @@ input {
   stroke: black;
   stroke-width: 1;
   fill: #fbd2bd; }
+  .svg--square rect:last-child {
+    -webkit-transform: translate(5px, 5px);
+    transform: translate(5px, 5px); }
   .svgLogo {
     max-width: 500px;
     padding: 20px; }
