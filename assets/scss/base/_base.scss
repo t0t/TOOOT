@@ -180,23 +180,25 @@ iframe {
     position: fixed;
     top: 0;
     right: 0;
-    width: 250px;
-    height: 300px;
-    background-image: url('../assets/img/bgnav.svg');
-    background-repeat: no-repeat;
-    background-size: contain;
+    height: 375px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     transition-property: transform;
     transition-duration: .3s;
     transition-timing-function: ease-in-out;
-    transform: translate(175px,0) rotate(-20deg);
-    transform-origin: top;
+    transform: translate(340px,-20px) rotate(-20deg);
+    transform-origin: center;
     z-index: 100;
-    .siteMenu { opacity: 0 }
+    .siteMenu {
+      opacity: 0;
+      position: absolute;
+    }
     &.active {
       transition-property: transform;
       transition-duration: .3s;
       transition-timing-function: ease-in-out;
-      transform: translate(0,0) rotate(0deg);
+      transform: translate(200px,30px) rotate(-15deg);
       input {
         background-color: $color_black;
         color: $color_white;
@@ -208,6 +210,7 @@ iframe {
         margin: 0;
         padding: 0;
         list-style: none;
+        text-transform: uppercase;
       }
     }
   }
@@ -226,8 +229,7 @@ iframe {
       padding: $base_spacing/2;
       color: $color_black;
       &:hover {
-        color: $color_white;
-        background-color: darken($color_alt, 5);
+        text-decoration: underline;
       }
     }
   }
@@ -235,6 +237,8 @@ iframe {
     padding: $base_spacing/2;
     background-color: $color_alt;
     text-transform: uppercase;
+    align-self: flex-start;
+    margin-top: $base_spacing;
     &:hover {
       background-color: $color_black;
       color: $color_white;
