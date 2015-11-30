@@ -12,10 +12,10 @@ append header
 //- Main append
 append main
 	article.post
-		h1.post-title #{ Posts[2].title }
 		figure
 			img( src="#{ Posts[2].img }", alt="#{ Posts[2].title }" )
 			figcaption - #{ Posts[2].title }
+		h1.post-title #{ Posts[2].title }
 		p #{ Posts[2].text }
 		audio(controls)
 			source(src="#{ Posts[2].audio }")
