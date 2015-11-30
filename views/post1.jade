@@ -9,10 +9,10 @@ append navmain
 append header
 	include partials/_header
 
-//- Posts block
-block posts
-	section.posts
-		h1 #{ Posts[1].title }
+//- Main append
+append main
+	article.post
+		h1.post-title #{ Posts[1].title }
 		figure
 			img( src="#{ Posts[1].img }", alt="#{ Posts[1].title }" )
 			figcaption - #{ Posts[1].title }

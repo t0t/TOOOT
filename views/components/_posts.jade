@@ -1,5 +1,6 @@
-section.posts
+section.list.list--post
 	each p in Posts
 		a(href="#{ p.url }")
-			h4 #{ p.title }
-			img(src="#{ p.thumbnail }", alt="#{ p.title }")
+			figure.list--post__figure
+				img(src="#{ p.thumbnail }", alt="#{ p.title }")
+				figcaption #{ p.title }

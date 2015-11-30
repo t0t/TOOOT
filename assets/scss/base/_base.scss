@@ -59,7 +59,7 @@ body {
   line-height: 1.9;
   letter-spacing: 1;
   background-color: $color-alt;
-  @media screen and (min-width: 900px ) {
+  @media screen and (min-width: 1024px ) {
     font-size: 125%;
   }
 }
@@ -120,10 +120,9 @@ iframe {
   // margin-bottom: $base_spacing / 2;
 }
 
-.siteMain {
+.site--main {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 0 $base_spacing;
   display: flex;
   flex-wrap: wrap;
   color: $color_black;
@@ -138,14 +137,22 @@ iframe {
     }
   }
 }
-.siteList {
-  padding-left: 0;
+// Footer List
+.footer__list {
+  padding: $base_spacing;
   list-style: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  border: 1px solid $color_black;
   &__item {
     padding: 5px;
+    margin-bottom: 0;
+  }
+  &__title {
+    text-align: center;
+    flex: 100%;
+    font-weight: bold;
   }
 }
 .siteFooter {
@@ -183,6 +190,7 @@ iframe {
     transition-timing-function: ease-in-out;
     transform: translate(175px,0) rotate(-20deg);
     transform-origin: top;
+    z-index: 100;
     .siteMenu { opacity: 0 }
     &.active {
       transition-property: transform;
@@ -296,7 +304,41 @@ iframe {
   @media screen and ( min-width: 1030px ) {}
   @media screen and ( min-width: 1430px ) {}
 }
-
+// Listados
+.list {}
+.list--post {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  &__figure {
+    text-align: center;
+  }
+}
+// Post
+.post {
+  figure {
+    position: relative;
+  }
+  figcaption {
+    color: $color_alt;
+    position: absolute;
+    bottom: $base_spacing/2;
+    right: $base_spacing/2;
+  }
+  p,
+  audio,
+  h1 {
+    padding: 0 $base_spacing;
+  }
+}
+.post-title {
+  text-align: center;
+}
+// Agradecimientos (en el footer)
+.agradecimientos {
+  padding: $base_spacing;
+  background-color: #fff;
+}
 // Animations
 @keyframes dibuja {
   100% {

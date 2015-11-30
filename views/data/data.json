@@ -10,23 +10,23 @@
       "title": "Cuando focalizamos la atención",
       "url": "./post0.html",
       "img": "./assets/img/image1.jpg",
-      "thumbnail": "./assets/img/teobn-th.jpg",
+      "thumbnail": "./assets/img/image1-th.jpg",
       "text": "Cuando focalizamos la atención de algo hacia dentro se genera un flujo de energía que parece comunicarse con nosotros. Nos damos cuenta de ese fluir de la conciencia, hay abundancia, ya no es necesario guardar nada... Llegamos al corazón y podemos entregar aquello que nos ha sido dado.",
       "audio": "./assets/audios/totaudio-voz.m4a"
     },
     {
       "title": "El mapa",
       "url": "./post1.html",
-      "img": "./assets/img/image2.jpg",
-      "thumbnail": "./assets/img/teobn-th.jpg",
+      "img": "./assets/img/image5.jpg",
+      "thumbnail": "./assets/img/image5-th.jpg",
       "text": "El mapa de la montaña no es la montaña",
       "audio": "./assets/audios/totaudio-voz.m4a"
     },
     {
       "title": "Todo es una analogía de todo",
       "url": "./post2.html",
-      "img": "./assets/img/image3.jpg",
-      "thumbnail": "./assets/img/teobn-th.jpg",
+      "img": "./assets/img/image4.jpg",
+      "thumbnail": "./assets/img/image4-th.jpg",
       "text": "Todo es una analogía de todo. El desarrollo web es una mini versión del universo.",
       "audio": "./assets/audios/totaudio-voz.m4a"
     }
