@@ -424,31 +424,37 @@ iframe {
   position: fixed;
   top: 0;
   right: 0;
-  width: 250px;
-  height: 300px;
-  background-image: url("../assets/img/bgnav.svg");
-  background-repeat: no-repeat;
-  background-size: contain;
+  height: 375px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform;
   transition-duration: .3s;
   transition-timing-function: ease-in-out;
-  -webkit-transform: translate(175px, 0) rotate(-20deg);
-  transform: translate(175px, 0) rotate(-20deg);
-  -webkit-transform-origin: top;
-  transform-origin: top;
+  -webkit-transform: translate(340px, -20px) rotate(-20deg);
+  transform: translate(340px, -20px) rotate(-20deg);
+  -webkit-transform-origin: center;
+  transform-origin: center;
   z-index: 100; }
   .siteNav .siteMenu {
-    opacity: 0; }
+    opacity: 0;
+    position: absolute; }
   .siteNav.active {
     transition-property: -webkit-transform;
     transition-property: transform;
     transition-property: transform, -webkit-transform;
     transition-duration: .3s;
     transition-timing-function: ease-in-out;
-    -webkit-transform: translate(0, 0) rotate(0deg);
-    transform: translate(0, 0) rotate(0deg); }
+    -webkit-transform: translate(200px, 30px) rotate(-15deg);
+    transform: translate(200px, 30px) rotate(-15deg); }
     .siteNav.active input {
       background-color: black;
       color: white; }
@@ -458,7 +464,8 @@ iframe {
       transition-duration: 2s;
       margin: 0;
       padding: 0;
-      list-style: none; }
+      list-style: none;
+      text-transform: uppercase; }
 
 .btn a {
   display: block;
@@ -470,13 +477,16 @@ iframe {
     padding: 15px;
     color: black; }
     .btnNav a:hover {
-      color: white;
-      background-color: #fac2a5; }
+      text-decoration: underline; }
 
 .btnToggle {
   padding: 15px;
   background-color: #fbd2bd;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  -webkit-align-self: flex-start;
+  -ms-flex-item-align: start;
+  align-self: flex-start;
+  margin-top: 30px; }
   .btnToggle:hover {
     background-color: black;
     color: white; }
