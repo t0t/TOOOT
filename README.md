@@ -6,6 +6,9 @@ Introducing TOT, a new idea around making website creation simple again. TOT fle
 Technically speaking, TOT is a static site generator. This means that, unlike systems like WordPress, Ghost and Drupal, which run on your web server expensively building a page every time a visitor requests one, TOT does the building when you create your content. Since websites are viewed far more often than they are edited, TOT is optimized for website viewing while providing a great writing experience.
 This is essential when you are designing websites, but also very useful when creating content.
 
+### Back to the basics
+After Development Seed pivoted away from building Drupal-based web applications, we started over completely. We began developing the majority of our projects for clients as simple, single page websites by manually coding the HTML, CSS, and JavaScript files. We pushed the boundaries of what we could do with these standards and avoided building server applications at all costs. As a result, we were able to build some of our best work. We used the money we would have spent on wrestling with Drupal’s codebase to focus on good design and strategy work, making sure we were actually solving our clients’ problems.
+
 Clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés** - Fullstack Web Designer
 
  [ Portfolio ](http://t0t.github.io/sergiofores/) | [ Repositories ](https://github.com/t0t/) | [ Linkedin ](https://www.linkedin.com/in/sergiofores/) | [ Tumblr ](http://www.tumblr.com/t0tfotos) | [ Facebook ](https://www.facebook.com/T0T-156415467869146/) | [ @t0tinspire ](https://twitter.com/t0tinspire/)
@@ -60,8 +63,9 @@ Clean and fast static site handcrafted with :sparkling_heart: by **Sergio Forés
  - [x] Refactorize, refactorize and refactorize
  - [ ] Use page.js for routing?
  - [ ] Add http://formspree.io/
- - [ ] Contentful or WP-API
+ - [ ] CMS: Contentful or WP-API or... http://prose.io/ :boom:
  - [x] Add EU Cookie Law
+ - [ ] Implementar chat en vivo.
  - [ ] Separate Gulp tasks into multiple files
  - [ ] Mirar el tema de implementar sistema de posts estáticos en yml, markup o JSON...
  - [ ] Implementar Html5 API's Audio/Video - Miro Converter => html5please.com | archive.org Player: mediaelementjs.com
