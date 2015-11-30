@@ -319,7 +319,7 @@ body {
   line-height: 1.9;
   letter-spacing: 1;
   background-color: #fbd2bd; }
-  @media screen and (min-width: 900px) {
+  @media screen and (min-width: 1024px) {
     body {
       font-size: 125%; } }
 
@@ -370,10 +370,9 @@ iframe {
 .siteHeader {
   background-color: #fbd2bd; }
 
-.siteMain {
+.site--main {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 0 30px;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -381,15 +380,15 @@ iframe {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   color: black; }
-  .siteMain p a {
+  .site--main p a {
     font-weight: bold;
     border-bottom: 1px solid #fbd2bd; }
-    .siteMain p a:hover {
+    .site--main p a:hover {
       color: #fbd2bd;
       border-bottom: none; }
 
-.siteList {
-  padding-left: 0;
+.footer__list {
+  padding: 30px;
   list-style: none;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -399,9 +398,17 @@ iframe {
   flex-wrap: wrap;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
-  justify-content: center; }
-  .siteList__item {
-    padding: 5px; }
+  justify-content: center;
+  border: 1px solid black; }
+  .footer__list__item {
+    padding: 5px;
+    margin-bottom: 0; }
+  .footer__list__title {
+    text-align: center;
+    -webkit-flex: 100%;
+    -ms-flex: 100%;
+    flex: 100%;
+    font-weight: bold; }
 
 .siteFooter {
   padding: 15px; }
@@ -430,7 +437,8 @@ iframe {
   -webkit-transform: translate(175px, 0) rotate(-20deg);
   transform: translate(175px, 0) rotate(-20deg);
   -webkit-transform-origin: top;
-  transform-origin: top; }
+  transform-origin: top;
+  z-index: 100; }
   .siteNav .siteMenu {
     opacity: 0; }
   .siteNav.active {
@@ -547,6 +555,40 @@ iframe {
     letter-spacing: 3px; }
   .cover__title {
     text-transform: uppercase; }
+
+.list--post {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around; }
+  .list--post__figure {
+    text-align: center; }
+
+.post figure {
+  position: relative; }
+
+.post figcaption {
+  color: #fbd2bd;
+  position: absolute;
+  bottom: 15px;
+  right: 15px; }
+
+.post p,
+.post audio,
+.post h1 {
+  padding: 0 30px; }
+
+.post-title {
+  text-align: center; }
+
+.agradecimientos {
+  padding: 30px;
+  background-color: #fff; }
 
 @-webkit-keyframes dibuja {
   100% {
