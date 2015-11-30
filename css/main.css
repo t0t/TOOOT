@@ -292,9 +292,6 @@ input {
   stroke: black;
   stroke-width: 1;
   fill: #fbd2bd; }
-  .svg--square rect:last-child {
-    -webkit-transform: translate(5px, 5px);
-    transform: translate(5px, 5px); }
   .svgLogo {
     max-width: 500px;
     padding: 20px; }
@@ -427,16 +424,10 @@ iframe {
   position: fixed;
   top: 0;
   right: 0;
-  height: 375px;
+  height: 385px;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform;
@@ -444,8 +435,6 @@ iframe {
   transition-timing-function: ease-in-out;
   -webkit-transform: translate(340px, -20px) rotate(-20deg);
   transform: translate(340px, -20px) rotate(-20deg);
-  -webkit-transform-origin: center;
-  transform-origin: center;
   z-index: 100; }
   .siteNav .siteMenu {
     opacity: 0;
@@ -456,15 +445,13 @@ iframe {
     transition-property: transform, -webkit-transform;
     transition-duration: .3s;
     transition-timing-function: ease-in-out;
-    -webkit-transform: translate(200px, 30px) rotate(-15deg);
-    transform: translate(200px, 30px) rotate(-15deg); }
+    -webkit-transform: translate(210px, 30px) rotate(-5deg);
+    transform: translate(210px, 30px) rotate(-5deg); }
     .siteNav.active input {
       background-color: black;
       color: white; }
     .siteNav.active .siteMenu {
       opacity: 1;
-      transition-property: opacity;
-      transition-duration: 2s;
       margin: 0;
       padding: 0;
       list-style: none;
@@ -483,7 +470,7 @@ iframe {
       text-decoration: underline; }
 
 .btnToggle {
-  padding: 15px;
+  padding: 7.5px;
   background-color: #fbd2bd;
   text-transform: uppercase;
   -webkit-align-self: flex-start;
