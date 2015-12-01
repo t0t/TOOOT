@@ -379,6 +379,9 @@ iframe {
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   color: black; }
   .site--main p a {
     font-weight: bold;
@@ -524,7 +527,8 @@ iframe {
   line-height: 1.5; }
 
 .cover {
-  margin-bottom: 30px;
+  max-width: 1840px;
+  margin: 0 auto;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -540,6 +544,7 @@ iframe {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  margin-bottom: 30px;
   background-image: url("../assets/img/teobn.jpg");
   background-size: cover;
   background-repeat: no-repeat;
