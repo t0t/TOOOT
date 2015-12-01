@@ -67,6 +67,7 @@ img {
   max-width: 100%;
 }
 a {
+
   color: $color_black;
   text-decoration: none;
 }
@@ -125,6 +126,7 @@ iframe {
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   color: $color_black;
   p a {
     font-weight: bold;
@@ -284,12 +286,14 @@ iframe {
   // margin-bottom: $base_spacing;
 }
 .cover {
-  margin-bottom: $base_spacing;
+  max-width: 1840px;
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-bottom: $base_spacing;
   background-image: url('#{$path}teobn.jpg');
   background-size: cover;
   background-repeat: no-repeat;

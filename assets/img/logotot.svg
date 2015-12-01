@@ -1,0 +1,14 @@
+<svg width="102" height="102" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    logotot
+  </title>
+  <g transform="translate(1 1)" stroke="#000" fill="#FCD2BE" fill-rule="evenodd">
+    <ellipse stroke-linejoin="bevel" cx="50" cy="50" rx="50" ry="50"/>
+    <ellipse stroke-linecap="round" cx="49.978" cy="49.659" rx="49.978" ry="33.659"/>
+    <path stroke-linecap="round" d="M49.96 0l47.514 34.52-18.15 55.858h-58.73L2.444 34.52z"/>
+    <path stroke-linecap="round" d="M49.96 0l43.266 24.98v49.96L49.96 99.92 6.692 74.94V24.98z"/>
+    <path stroke-linecap="round" d="M49.96 0l35.326 14.633L99.92 49.96 85.285 85.285 49.96 99.92 14.632 85.285 0 49.96l14.633-35.327z"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M14.59 14.59H85V85H14.59z"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M49.99 0l39.988 79.978H10z"/>
+  </g>
+</svg>
