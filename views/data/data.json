@@ -7,27 +7,30 @@
   },
   "posts": [
     {
-      "title": "Cuando focalizamos la atención",
+      "title": "Blog",
       "url": "./post0.html",
       "img": "./assets/img/image1.jpg",
-      "thumbnail": "./assets/img/image1-th.jpg",
-      "text": "Cuando focalizamos la atención de algo hacia dentro se genera un flujo de energía que parece comunicarse con nosotros. Nos damos cuenta de ese fluir de la conciencia, hay abundancia, ya no es necesario guardar nada... Llegamos al corazón y podemos entregar aquello que nos ha sido dado.",
+      "icon": "./assets/img/icons.svg#octagon",
+      "thumbnail": "./assets/img/icons.svg#bg-cuadrado",
+      "text": "Archivo de pequeñas publicaciones, cuaderno de bitácora en tumblr, fotos y pequeños textos que voy guardando en cápsulas",
       "audio": "./assets/audios/totaudio-voz.m4a"
     },
     {
-      "title": "El mapa",
+      "title": "Podcast",
       "url": "./post1.html",
-      "img": "./assets/img/image5.jpg",
-      "thumbnail": "./assets/img/image5-th.jpg",
-      "text": "El mapa de la montaña no es la montaña",
+      "img": "./assets/img/icons.svg#bg-cuadrado",
+      "icon": "./assets/img/icons.svg#path",
+      "thumbnail": "./assets/img/icons.svg#bg-cuadrado",
+      "text": "Expresando en la acción lo que he aprendido. La posesión del conocimiento, si no va acompañada por una manifestación y expresión en la práctica, simplemente se vuelve estéril.",
       "audio": "./assets/audios/totaudio-voz.m4a"
     },
     {
-      "title": "Todo es una analogía de todo",
+      "title": "Sobre el proceso de este proyecto",
       "url": "./post2.html",
       "img": "./assets/img/image4.jpg",
-      "thumbnail": "./assets/img/image4-th.jpg",
-      "text": "Todo es una analogía de todo. El desarrollo web es una mini versión del universo.",
+      "icon": "./assets/img/icons.svg#lines",
+      "thumbnail": "./assets/img/icons.svg#bg-cuadrado",
+      "text": "Documentación sobre este proyecto, la estructura, el proceso, herramientas, el cómo de las cosas...",
       "audio": "./assets/audios/totaudio-voz.m4a"
     }
   ],

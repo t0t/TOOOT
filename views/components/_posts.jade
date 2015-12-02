@@ -1,6 +1,7 @@
-section.list.list--post
+section.list.list--features
 	each p in Posts
-		a(href="#{ p.url }")
-			figure.list--post__figure
-				img(src="#{ p.thumbnail }", alt="#{ p.title }")
-				figcaption #{ p.title }
+		a(href="#{ p.url }").list--features__item
+			h4.list--features__title #{ p.title }
+			svg.svg
+				use( xlink:href="#{ p.icon }" )
+			p #{ p.text }

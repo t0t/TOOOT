@@ -317,12 +317,22 @@ iframe {
 }
 // Listados
 .list {}
-.list--post {
+.list--features {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  &__figure {
-    text-align: center;
+  &__item {
+    flex: 1 300px;
+    padding: $base_spacing / 2;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  &__title {
+    flex: 1 100%;
+  }
+  svg {
+    width: 100px;
+    height: 100px;
   }
 }
 // Post
